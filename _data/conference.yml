@@ -103,15 +103,15 @@ navbar:
   - id: 4
     label: Programação
     path: /program.html
-    visible: True
+    visible: False
   - id: 5
-    label: Venue
+    label: Local
     path: /venue.html
     visible: True
   - id: 6
     label: Inscrições
     path: /registration.html
-    visible: True
+    visible: False
 deadline_timezone: AoE
 deadlines:
 #  - date: 2025-09-22
