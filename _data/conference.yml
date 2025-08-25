@@ -75,16 +75,20 @@ navbar:
     visible: True
     children:
     - id: 1
-      label: Fórum de Pós-graduação
-      path: /cfp.html
+      label: Concurso de TCCs e Dissertações
+      path: /cfd.html
       visible: True
     - id: 2
       label: Fórum de Iniciação Científica
       path: /cfp.html
       visible: True
     - id: 3
-      label: Concurso de TCCs e Dissertações
-      path: /cfd.html
+      label: Fórum de Pós-graduação
+      path: /cfp.html
+      visible: True
+    - id: 4
+      label: Minicursos
+      path: /minic.html
       visible: True
   - id: 3
     label: Submissões
@@ -153,15 +157,16 @@ deadlines:
 #    strike_through: False
 
 sponsors:
+#  - name: AWS
+#     logo_path: ./assets/images/sponsors/ieee-logo.gif
+#    url: https://aws.amazon.com/
   - name: Hewlett Packard Enterprise Company (HPE) 
     logo_path: ./assets/images/sponsors/HPE.png
     url: https://www.hpe.com/br/pt/home.html
 #  - name: LexisNexis Risk Solutions
 #    logo_path: ./assets/images/sponsors/sangrah-logo.jpg
 #    url: https://sangrah.org/
-#  - name: AWS
-#     logo_path: ./assets/images/sponsors/ieee-logo.gif
-#    url: https://aws.amazon.com/
+
 social_media:
   facebook_link:
   twitter_link:
