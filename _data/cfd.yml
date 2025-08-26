@@ -1,6 +1,11 @@
 description: >
-  São convidados artigos completos de pesquisas originais e inéditas sobre vários
-  aspectos de computação de alto desempenho (CAD) e sistemas paralelas e distribuídas.
+  O principal objetivo do Concurso de TCCs e Dissertações é disseminar os Trabalhos de Conclusão de 
+  Cursos de Graduação, e Dissertações de Mestrado, voltados para a área de Computação de Alto 
+  Desempenho.  
+  
+  Os TCCs e Dissertações defendidos e homologados a partir de janeiro de 2024 até a data de 
+  submissão desde concurso em 2025 estão convidadas a participar do concurso.
+
 submission: ./submission.html
 areas:
 - category: "Projeto e Arquitetura"
