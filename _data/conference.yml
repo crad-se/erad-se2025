@@ -80,7 +80,7 @@ navbar:
       visible: True
     - id: 2
       label: Fórum de Iniciação Científica
-      path: /cfp.html
+      path: /cfi.html
       visible: True
     - id: 3
       label: Fórum de Pós-graduação
