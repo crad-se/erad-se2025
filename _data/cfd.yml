@@ -3,9 +3,6 @@ description: >
   Cursos de Graduação, e Dissertações de Mestrado, voltados para a área de Computação de Alto 
   Desempenho.  
   
-  Os TCCs e Dissertações defendidos e homologados a partir de janeiro de 2024 até a data de 
-  submissão desde concurso em 2025 estão convidadas a participar do concurso.
-
 submission: ./submission.html
 areas:
 - category: "Projeto e Arquitetura"
