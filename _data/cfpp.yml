@@ -5,7 +5,7 @@ submission: ./submission.html
 areas:
 - category: "Inscrições"
   topics:
-    - Os participantes devem se organizar em equipes de até três competidores, realizando um registro da equipe através <a href="{{site.data.cfpp.submission}}">deste formulário</a>.
+    - Os participantes devem se organizar em equipes de até três competidores, realizando um registro da equipe através <a href="https://forms.gle/Rw1r5tPsPufQqHPHA">deste formulário</a>.
 - category: "Aquecimento"
   topics:
     - Aplicações de 
