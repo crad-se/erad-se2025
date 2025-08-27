@@ -1,0 +1,24 @@
+description: >
+  A Escola tem o objetivo de estimular o estudo e a pesquisa nas áreas de Computação de Alto 
+  Desempenho, Arquitetura de Computadores e Sistemas Paralelos e Distribuídos.
+submission: ./submission.html
+areas:
+- category: "Inscrições"
+  topics:
+    - Os participantes devem se organizar em equipes de até três competidores, realizando um registro 
+    da equipe através do link: <a href https://forms.gle/Rw1r5tPsPufQqHPHA
+- category: "Aquecimento"
+  topics:
+    - Aplicações de 
+- category: "Competição"
+  topics:
+    - A Maratona terá início na quinta-feira, dia 6 de novembro de 2025 às 20h, com duração máxima de 3 horas.
+- category: "Regras"
+  topics:
+    - Os competidores devem estar inscritos na Escola Regional de Alto Desempenho – Sudeste.
+    - As equipes devem ser compostas por até três competidores.
+    - É obrigatório paralelizar os códigos disponibilizados.
+    - A pontuação será calculada com base na maior aceleração obtida somando os problemas resolvidos.
+    - Serão aceitos apenas códigos que forneçam a resposta correta.
+
+    
