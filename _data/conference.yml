@@ -87,6 +87,10 @@ navbar:
       path: /cfp.html
       visible: True
     - id: 4
+      label: Maratona de Programação Paralela
+      path: /cfpp.html
+      visible: True
+    - id: 5
       label: Minicursos
       path: /cfm.html
       visible: True
