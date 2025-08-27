@@ -144,13 +144,13 @@ deadlines:
 #    pass_due: True
 #    strike_through: True
   - date: 2025-10-27
-    text: Camera-ready due
+    text: Entrega da Versão Final
     pass_due: False
     strike_through: False
-#  - date: 2024-01-10
-#    text: Demo submission deadline
-#    pass_due: True
-#    strike_through: False
+  - date: 2025-11-04
+    text: Prazo para Registro das Equipes da Maratona
+    pass_due: False
+    strike_through: False
 #  - date: 2024-01-15
 #    text: Notification of demo acceptance
 #    pass_due: True
