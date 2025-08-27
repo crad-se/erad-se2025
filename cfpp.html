@@ -32,10 +32,9 @@ slide_id: 2
         </div>
     </div>
     <div class="col-sm-12 col-xs-12 col-md-6 col-lg-6 col-xl-6 conference-text">
-        {% if site.data.cfp %}
-        <p>
-            As áreas de interesse incluem, mas não estão limitadas a:
-        </p>
+        {% if site.data.cfpp %}
+         <h6 class="text-info">Informações:</h6>
+        
         <ul>
             {% for area in site.data.cfpp.areas %}
             <li><b>{{area.category}}</b></li>
