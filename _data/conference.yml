@@ -58,7 +58,7 @@ slideshow:
     photographer_link: ""
   - id: 6
     image_path: ./assets/images/slideshow/Icarai.jpg
-    description: Icaraí
+    description: Niterói
     photographer_name: "Vinod Rebello"
     photographer_link: ""
 navbar:
