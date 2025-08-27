@@ -37,30 +37,30 @@ slideshow:
     photographer_name: "Vinod Rebello"
     photographer_link: ""
   - id: 2
+    image_path: ./assets/images/slideshow/Parque.jpg
+    description: Vista da Parque da Cidade
+    photographer_name: "Vinod Rebello"
+    photographer_link: ""
+  - id: 3
     image_path: ./assets/images/slideshow/ilha.jpg
     description: Ilha de Boa Viagem
     photographer_name: "Vinod Rebello"
     photographer_link: ""
-#  - id: 3
-#    image_path: ./assets/images/slideshow/3-whitetown.jpg
-#    description: White Town
-#    photographer_name: ""
-#    photographer_link: ""
-#  - id: 4
-#    image_path: ./assets/images/slideshow/4-manakula-vinayagar-temple.jpg
-#    description: Manakula Vinayagar Temple
-#    photographer_name: ""
-#    photographer_link: ""
-#  - id: 5
-#    image_path: ./assets/images/slideshow/5-auroville.png
-#    description: Auroville
-#    photographer_name: ""
-#    photographer_link: ""
-#  - id: 6
-#    image_path: ./assets/images/slideshow/6-mahabalipuram.jpg
-#    description: Temple, Mahabalipuram
-#    photographer_name: ""
-#    photographer_link: ""
+  - id: 4
+    image_path: ./assets/images/slideshow/Charitas.jpg
+    description: Por de Sol de Charitas
+    photographer_name: "Vinod Rebello"
+    photographer_link: ""
+  - id: 5
+    image_path: ./assets/images/slideshow/Pedra.jpg
+    description: Pedra do Índio, Icaraí
+    photographer_name: "Vinod Rebello"
+    photographer_link: ""
+  - id: 6
+    image_path: ./assets/images/slideshow/Icarai.jpg
+    description: Icaraí
+    photographer_name: "Vinod Rebello"
+    photographer_link: ""
 navbar:
   - id: 0
     label: Home
