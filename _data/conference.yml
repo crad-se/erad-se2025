@@ -1,10 +1,15 @@
 full_name: Escola Regional de Alto Desempenho da Região Sudeste 2025
 short_name: ERAD-SE 2025
 description: > # this means to ignore newlines until "baseurl:"
-  As ERADs têm o objetivo de estimular o estudo e a pesquisa nas áreas de Arquitetura de Computadores,
-  Processamento de Alto Desempenho, Sistemas Distribuídos, e Aplicações, qualificar profissionais da região,
-  prover um fórum regular onde possam ser apresentados e discutidas avanços recentes nestas áreas e formas de
-  ensino de alto desempenho nas universidades e institutos de pesquisa.
+  A ERAD-SE é promovida pela Sociedade Brasileira de Computação (SBC) e pela recente criada Comissão Regional 
+  de Alto Desempenho do Sudeste (CRAD-SE). As ERADs têm o objetivo de estimular o estudo e a pesquisa nas áreas 
+  de Arquitetura de Computadores, Processamento de Alto Desempenho, Sistemas Distribuídos, e Aplicações, 
+  qualificar profissionais da região, além de prover um fórum regular onde possam ser apresentados e discutidas
+  avanços recentes nestas áreas e formas de ensino de alto desempenho nas universidades e institutos de pesquisa. 
+  <br><br> O público-alvo da ERAD-SE 2025 são alunos de graduação, pós-graduação e iniciação científica, 
+  profissionais, professores e pesquisadores que atuam na área de Computação de Alto Desempenho e em áreas que 
+  fazem uso intensivo de supercomputação, como por exemplo, Bioinformática, Engenharias, Petróleo, Óleo e Gás, 
+  e Saúde, além de representantes das empresas, da indústria e do governo. 
 
 email: erad-se-info@ic.uff.br
 
@@ -168,8 +173,8 @@ sponsors:
 #    logo_path: ./assets/images/sponsors/HPE.png
 #    url: https://www.hpe.com/br/pt/home.html
 #  - name: LexisNexis Risk Solutions
-#    logo_path: ./assets/images/sponsors/sangrah-logo.jpg
-#    url: https://sangrah.org/
+#    logo_path: ./assets/images/sponsors/logo_lexis.png
+#    url: https://risk.lexisnexis.com.br/
 
 social_media:
   facebook_link:
