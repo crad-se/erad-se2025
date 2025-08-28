@@ -1,5 +1,6 @@
 description: >
-  A trilha Minicursos pretende oferecer uma visão das tecnologias recentes voltadas a Computação de Alto Desempenho, considerando os tópicos do interesse do evento. 
+  A Escola tem como objetivo estimular a pesquisa e desenvolivmento nas áreas de Arquitetura de Computadores, Processamento de Alto Desempenho, Sistemas Distribuídos e a aplicação de conceitos e técnicas avançadas em 
+  diversas áreas do conhecimento. A trilha de Minicursos pretende oferecer uma visão das tecnologias recentes nestes áreas, considerando os tópicos do interesse do evento. 
 submission: ./submission.html
 areas:
 - category: "Projeto e Arquitetura"
