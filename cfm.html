@@ -1,6 +1,6 @@
 ---
 title: Call for Minicursos
-layout: page
+layout: demo
 slide_id: 2
 ---
 
@@ -8,16 +8,15 @@ slide_id: 2
     <div class="col-sm-12 col-xs-12 col-md-6 col-lg-6 col-xl-6 text-justify">
         <div class="conference-text">
             <p class="lead">Chamada de Minicursos</p>
-            <p>{{site.data.cfp.description}}</p>
+            <p>{{site.data.cfm.description}}</p>
 
             <p>
-                Solicitamos gentilmente que você envie seu artigo de pesquisa usando o {{site.data.submission.portal}}:
-                <a href="{{site.data.submission.url}}">{{site.data.submission.url}}</a>.
+                Ao preparar sua submissão, siga as instruções fornecidas nas <a href="{{site.data.cfm.submission}}">Diretrizes de Submissão</a>,
+                e não deve exceder <b>{{site.data.submission.pagelimits[4].limit}}</b> páginas incluindo texto, figuras e referências.
+                A submissão deve incluir o título, o resumo e os nomes e afiliações de todos os autores.
             </p>
             <p>
-                Ao preparar sua submissão, siga as instruções fornecidas nas <a href="{{site.data.cfp.submission}}">Diretrizes de Submissão</a>,
-                e não deve exceder <b>{{site.data.submission.pagelimits[1].limit}}</b> páginas incluindo texto, figuras e referências.
-                A submissão deve incluir o título, o resumo e os nomes e afiliações de todos os autores.
+               A proposta deve ser enviada para Maria Clicia S. Castro (clicia@ime.uerj.br) e Rafaela Brum (rafaelabrum@eng.uerj.br). Depois do envio, esperar um e-mail de confirmação de submissão em até 72 horas.
             </p>
         </div>
 
@@ -28,12 +27,12 @@ slide_id: 2
         </div>
     </div>
     <div class="col-sm-12 col-xs-12 col-md-6 col-lg-6 col-xl-6 conference-text">
-        {% if site.data.cfp %}
+        {% if site.data.cfm %}
         <p>
             As áreas de interesse incluem, mas não estão limitadas a:
         </p>
         <ul>
-            {% for area in site.data.cfp.areas %}
+            {% for area in site.data.cfm.areas %}
             <li><b>{{area.category}}</b></li>
             {% if area.topics %}
             <ul>
