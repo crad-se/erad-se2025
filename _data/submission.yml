@@ -21,6 +21,9 @@ pagelimits:
   - type: paper
     name: Concurso de TCCs e Dissertações
     limit: 6
+  - type: demo
+    name: Proposta de Minicurso
+    limit: 4
 # type pode ser paper ou demo?
 
 fontsize: 12
