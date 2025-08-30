@@ -6,9 +6,9 @@ classes: text-justify conference-text
 ---
 
 {: .text-info}
-###### A SBC
+###### A Sociedade Brasileira de Computação (SBC)
 
-A  [Sociedade Brasileira de Computação](https://www.sbc.org.br/) - SBC é uma Sociedade Científica sem fins lucrativos, fundada em julho de 1978, que reúne estudantes, professores, profissionais, pesquisadores eentusiastas da área da Computação e Informática de todo o país.
+A  [Sociedade Brasileira de Computação](https://www.sbc.org.br/) (SBC) é uma Sociedade Científica sem fins lucrativos, fundada em julho de 1978, que reúne estudantes, professores, profissionais, pesquisadores eentusiastas da área da Computação e Informática de todo o país.
 
 A SBC tem como função fomentar o acesso à informação e cultura por meio da informática, promover a inclusão digital, incentivar a pesquisa e o ensino em computação no Brasil, e contribuir para a formação do profissional da computação com responsabilidade social.
 
