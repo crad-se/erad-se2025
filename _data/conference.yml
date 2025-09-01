@@ -166,7 +166,7 @@ deadlines:
 #    strike_through: False
 
 sponsors:
-  - name: AWS
+  - name: Amazon Web Services
     logo_path: ./assets/images/sponsors/AWS_logo_RGB_BLK.png
     url: https://aws.amazon.com/
 #  - name: Hewlett Packard Enterprise Company (HPE) 
