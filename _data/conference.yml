@@ -166,15 +166,15 @@ deadlines:
 #    strike_through: False
 
 sponsors:
-#  - name: AWS
-#     logo_path: ./assets/images/sponsors/ieee-logo.gif
-#    url: https://aws.amazon.com/
+  - name: AWS
+    logo_path: ./assets/images/sponsors/ieee-logo.gif
+    url: https://aws.amazon.com/
 #  - name: Hewlett Packard Enterprise Company (HPE) 
 #    logo_path: ./assets/images/sponsors/HPE.png
 #    url: https://www.hpe.com/br/pt/home.html
-#  - name: LexisNexis Risk Solutions
-#    logo_path: ./assets/images/sponsors/logo_lexis.png
-#    url: https://risk.lexisnexis.com.br/
+  - name: LexisNexis Risk Solutions
+    logo_path: ./assets/images/sponsors/logo_lexis.png
+    url: https://risk.lexisnexis.com.br/
 
 social_media:
   facebook_link:
