@@ -10,8 +10,10 @@
   text: A <strong><a href="./cfm.html">Chamada de Minicursos</a></strong> foi publicada.
 - date: 2025-08-27
   text: A <strong><a href="./cfpp.html">Chamada de Equipes para a Maratona</a></strong> foi publicada.
-#- date: 2025-09-20
-#  text: <span class="text-info">Paper submission deadline has been extended!</span>
+- date: 2025-09-02
+  text: <span class="text-info">Palestrante confirmada. Obrigado Profa. Aletéia Araújo (Universidade de Brasília). </span>
+- date: 2025-09-02
+  text: Palestrante confirmado. Obrigado Dr. Felipe Portella (Petrobras).
 #- date: 2025-09-14
 #  text: <strong><a href="./registration.html">Inscrições</a></strong> is open
 #- date: 2025-10-14
