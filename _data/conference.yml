@@ -179,6 +179,7 @@ sponsors:
 social_media:
   facebook_link:
   twitter_link:
+
 previous_iterations:
   - name: IX ERAD-RJ
     year: 2024
@@ -189,3 +190,18 @@ previous_iterations:
 #  - name: VII ERAD-RJ
 #    year: 2022
 #    url: https://eradrj.sbc.org.br/2022/
+  - name: VII ERAD-RJ
+    year: 2021
+    url: http://erad2021.lncc.br/
+  - name: VI ERAD-RJ
+    year: 2020
+#    url: https://www.dcc.ufrrj.br/erad2020/
+  - name: V ERAD-RJ
+    year: 2019
+    url: https://eic.cefet-rj.br/erad2019/index.php
+  - name: IV ERAD-RJ
+    year: 2018
+    url: http://eradrj2018.ic.uff.br/index.php
+  - name: III ERAD-RJ
+    year: 2017
+#    url: https://www.dcc.ufrrj.br/erad2017/
