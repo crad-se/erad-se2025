@@ -201,7 +201,7 @@ previous_iterations:
     url: http://erad2021.lncc.br/
   - name: VI ERAD-RJ
     year: 2020
-#    url: https://www.dcc.ufrrj.br/erad2020/
+    url: https://www.dcc.ufrrj.br/erad2020/
   - name: V ERAD-RJ
     year: 2019
     url: https://eic.cefet-rj.br/erad2019/index.php
@@ -210,4 +210,4 @@ previous_iterations:
     url: http://eradrj2018.ic.uff.br/index.php
   - name: III ERAD-RJ
     year: 2017
-#    url: https://www.dcc.ufrrj.br/erad2017/
+    url: https://www.dcc.ufrrj.br/erad2017/
