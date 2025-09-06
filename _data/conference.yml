@@ -117,7 +117,7 @@ navbar:
     label: Programação
     path: /program.html
     visible: False
-- id: 5
+  - id: 5
     label: Inscrições
     visible: True
     children:
@@ -137,7 +137,7 @@ navbar:
 deadline_timezone: AoE
 deadlines:
 #  - date: 2025-09-22
-    # timezone: AoE
+#    timezone: AoE
 #    text: Submission deadline
 #    pass_due: True
 #    strike_through: True
@@ -159,6 +159,10 @@ deadlines:
 #    strike_through: True
   - date: 2025-10-27
     text: Entrega da Versão Final
+    pass_due: False
+    strike_through: False
+  - date: 2025-10-31
+    text: Prazo para as Inscrições dos Autores
     pass_due: False
     strike_through: False
   - date: 2025-11-04
