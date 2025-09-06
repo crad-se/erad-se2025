@@ -117,14 +117,23 @@ navbar:
     label: Programação
     path: /program.html
     visible: False
-  - id: 5
-    label: Local
+- id: 5
+    label: Inscrições
+    visible: True
+    children:
+    - id: 1
+      label: Promo
+      path: /combo.html
+      visible: True
+    - id: 2
+      label: Valores
+      path: /registration.html
+      visible: True
+  - id: 6
+    label: Venue
     path: /venue.html
     visible: True
-  - id: 6
-    label: Inscrições
-    path: /registration.html
-    visible: False
+    
 deadline_timezone: AoE
 deadlines:
 #  - date: 2025-09-22
@@ -187,9 +196,6 @@ previous_iterations:
   - name: VIII ERAD-RJ
     year: 2023
     url: https://eradrj.sbc.org.br/2023/
-#  - name: VII ERAD-RJ
-#    year: 2022
-#    url: https://eradrj.sbc.org.br/2022/
   - name: VII ERAD-RJ
     year: 2021
     url: http://erad2021.lncc.br/
