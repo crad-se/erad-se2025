@@ -10,6 +10,17 @@ accommodation:
     </p>
 
   hotels:
-    # - name: TBA
-    #   address: TBA
+     - name: H Niterói Hotel
+       address: R. Dr. Paulo Alves, 14 - Ingá, Niterói - RJ, 24210-445
+       distance: 20 minutos andando
+       web: http://hniteroi.com.br/
+     - name: Quality Hotel Niterói
+       address: R. Eng. Roberto Velasco Cardoso, 321 - Gragoatá, Niterói - RJ, 24210-375
+       distance: 15 minutos andando
+       web: https://www.letsatlantica.com.br/hotel/hotel-orizzonte-niteroi-by-atlantica
+     - name: Hotel Cantareira
+       address: R. Gen. Osório, 62 - São Domingos, Niterói - RJ, 24210-190
+       distance: 15 minutos andando
+       web: https://hotelcantareiraniteroi.com.br/
+    
 direction: ./assets/images/mapaUFF.png
