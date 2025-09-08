@@ -14,13 +14,11 @@ slide_id: 2
         </p>
 
         <h6 class="text-info">Local da ERAD-SE 2025</h6>
-
         <p>
             {{site.data.venue.address}}
         </p>
 
-        <h6 class="text-info">Acomodação</h6>
-
+        <h6 class="text-info">Hospedagem</h6>
         <p>
             {{site.data.venue.accommodation.instructions}}
         </p>
@@ -28,13 +26,14 @@ slide_id: 2
         {% if site.data.venue.accommodation.hotels %}
         <ul>
             {% for hotel in site.data.venue.accommodation.hotels %}
-            <li><b>{{hotel.name}}</b> ({{hotel.address}})</li>
+            <li><a href="{{hotel.web}}" target="_blank" rel="noopener noreferrer"><b>{{hotel.name}}</b> 
+            <ul><li>{{hotel.address}}</li>
+                <li>{{hotel.distance}}</li></ul></li>
             {% endfor %}
         </ul>
         {% endif %}
 
         <h6 class="text-info">Direções</h6>
-
         <p>
             {{site.data.venue.directions}}
         </p>
