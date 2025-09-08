@@ -26,7 +26,7 @@ slide_id: 2
         {% if site.data.venue.accommodation.hotels %}
         <ul>
             {% for hotel in site.data.venue.accommodation.hotels %}
-            <li><a href="{{hotel.web}}" target="_blank" rel="noopener noreferrer"><b>{{hotel.name}}</b> 
+            <li><a href="{{hotel.web}}" target="_blank" rel="noopener noreferrer"><b>{{hotel.name}}</b></a>
             <ul><li>{{hotel.address}}</li>
                 <li>{{hotel.distance}}</li></ul></li>
             {% endfor %}
