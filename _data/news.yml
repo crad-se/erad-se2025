@@ -14,8 +14,8 @@
   text: <span class="text-info">Palestrante confirmada. Obrigado Profa. Aletéia Araújo (Universidade de Brasília). </span>
 - date: 2025-09-02
   text: <span class="text-info">Palestrante confirmado. Obrigado Dr. Felipe Portella (Petrobras). </span>
-#- date: 2025-09-14
-#  text: <strong><a href="./registration.html">Inscrições</a></strong> is open
+- date: 2025-09-09
+  text: As <strong><a href="./registration.html">Inscrições</a></strong> estão abertas!
 #- date: 2025-10-14
 #  text: <strong><a href="./accepted.html">Artigos Aceitos</a></strong> announced
 # - date: 2025-11-05
