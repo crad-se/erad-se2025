@@ -49,9 +49,12 @@
     homepage: ""
 - title: Comitê Científico e Técnico
   column: 2
-  members:
+  members:  Antonio Tadeu Azevedo Gomes
   - name: Anderson Fernandes Pereira dos Santos
     org: Instituto Militar de Engenharia (IME), Rio de Janeiro - RJ
+    homepage: ""
+  - name: Antonio Tadeu Azevedo Gomes
+    org: Laboratório de Computação Científica (LNCC), Petrópolis - RJ
     homepage: ""
   - name: Carla Osthoff
     org: Laboratório de Computação Científica (LNCC), Petrópolis - RJ
@@ -65,14 +68,20 @@
   - name: Esteban W. Clua
     org: Universidade Federal Fluminense (UFF), Niterói - RJ
     homepage: ""
+  - name: Fernanda Passos
+    org: Instituto Superior de Engenharia de Lisboa (ISEL), Lisboa, Portugal
+    homepage: ""
   - name: Gustavo Silva Semaan
     org: Universidade Federal Fluminense (UFF), Niterói - RJ
     homepage: ""
   - name: Henrique Cota de Freitas
     org: Pontifícia Universidade Católica de Minas Gerais (PUC Minas), Belo Horizonte, MG
     homepage: ""
+  - name: Jose J. Camata
+    org: Universidade Federal de Juiz de Fora (UFJF), Juiz de Fora - MG
+    homepage: ""
   - name: Juliana Nascente
-    org: Universidade Federal Rural de Rio de Janeiro (UFRRJ), Seropédica - RJ
+    org: Universidade Federal Rural de Rio de Janeiro (UFRRJ), Nova Iguaçu - RJ
     homepage: ""
   - name: Maicon Melo Alves
     org:  Petróleo Brasileiro S.A. (Petrobras), Campos dos Goytacazes - RJ
@@ -83,7 +92,6 @@
   - name: Marcos Tomazzoli Leipnitz
     org: Universidade Federal de Rio de Janeiro (UFRJ), Rio de Janeiro - RJ
     homepage: ""
-    
   - name: Maria Clicia Stelling de Castro
     org: Universidade do Estado do Rio de Janeiro (UERJ), Rio de Janeiro - RJ
     homepage: ""
@@ -103,7 +111,10 @@
     org: Universidade Federal de Rio de Janeiro (UFRJ), Rio de Janeiro - RJ
     homepage: ""
   - name: Ubiratam De Paula
-    org: Universidade Federal Rural de Rio de Janeiro (UFRRJ), Seropédica - RJ
+    org: Universidade Federal Rural de Rio de Janeiro (UFRRJ), Nova Iguaçu - RJ
+    homepage: ""
+  - name: Vinícius Dias
+    org: Universidade Federal de Lavras (UFLA), Lavras - MG
     homepage: ""
    
 - title: Webmaster
