@@ -181,6 +181,18 @@ sponsors:
     logo_path: ./assets/images/sponsors/logo_lexis.png
     url: https://risk.lexisnexis.com.br/
 
+organizers:
+  - logo_path: ./assets/images/sponsors/UFF.png
+    url: https://www.ic.uff.br
+  - logo_path: ./assets/images/sponsors/logo-ufrj2.png
+    url: https://www.ic.ufrj.br
+  - logo_path: ./assets/images/sponsors/UFV.png
+    url: https://ccp.ufv.br/
+  - logo_path: ./assets/images/sponsors/uerj.gif
+    url: https://www.uerj.br
+  - logo_path: ./assets/images/sponsors/UFRRJ-logo2.png
+    url: https://www.ni.ufrrj.br/
+    
 social_media:
   facebook_link:
   twitter_link:
