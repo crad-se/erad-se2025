@@ -11,11 +11,12 @@
 - date: 2025-08-27
   text: A <strong><a href="./cfpp.html">Chamada de Equipes para a Maratona</a></strong> foi publicada.
 - date: 2025-09-02
-  text: <span class="text-info">Palestrante confirmada. Obrigado Profa. Aletéia Araújo (Universidade de Brasília). </span>
-- date: 2025-09-02
-  text: <span class="text-info">Palestrante confirmado. Obrigado Dr. Felipe Portella (Petrobras). </span>
+  text: <strong><a href="./talks.html">Palestrantes</a> confirmadas. Obrigado Profa. Aletéia Araújo (Universidade de Brasília) e Drs. Felipe Portella e Guilherme Vilela (Petrobras). </span>
 - date: 2025-09-09
   text: As <strong><a href="./registration.html">Inscrições</a></strong> estão abertas!
+- date: 2025-09-12
+  text: <strong><a href="./talks.html">Palestra</a> e <strong><a href="./mcursos.html">minicurso</a> confirmados. Obrigado Prof. Mauro Marques (LexisNexis). </span>
+#  text: <span class="text-info">Palestra e minicurso confirmados. Obrigado Prof. Mauro Marques (LexisNexis). </span>
 #- date: 2025-10-14
 #  text: <strong><a href="./accepted.html">Artigos Aceitos</a></strong> announced
 # - date: 2025-11-05
