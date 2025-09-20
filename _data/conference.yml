@@ -143,11 +143,11 @@ deadlines:
 #    strike_through: True
   - date: 2025-09-22
     text: Submissão de Trabalhos
-    pass_due: False
+    pass_due: True
     strike_through: True
   - date: 2025-09-29
     text: Submissão de Trabalhos
-    pass_due: False
+    pass_due: True
     strike_through: False
   - date: 2025-09-29
     text: Propostas de Minicursos
