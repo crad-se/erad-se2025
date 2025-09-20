@@ -1,0 +1,118 @@
+description: > 
+  Abaixo são apresentados os detalhes das palestras convidadas, sendo estas sobre temas relevantes. As <b><i>Palestras 
+  Acadêmicas</i></b> são de grande interesse, pois pretendem mostrar o que os alunos podem 
+  alcançar com o conhecimento que já possuem ou que estão adquirindo. As <b><i>Palestras Industriais</i></b> 
+  oferecem uma visão das necessidades das empresas, indústria e a sociedade em geral, além de 
+  destacar as principais habilidades e tecnologias que alunos podem achar úteis em seu futuro profissional.
+palestras:
+  - type: Acadêmica e Industrial
+    title: Jornada de HPC da Petrobras
+    abstract: >
+      Apresentação da trajetória de mais de 50 anos do HPC na Petrobras, desde os primeiros sistemas de 
+      grande porte até a atual infraestrutura que coloca a empresa como referência em computação de 
+      alto desempenho na América Latina com as maiores máquinas no TOP500. Além do aspecto histórico, a 
+      palestra abordará os projetos atuais de desenvolvimento em HPC incluindo a estratégia de 
+      transbordo para cloud, pesquisas em novas arquiteturas computacionais para geofísica envolvendo 
+      RISC-V, e desenvolvimentos desde Fortran até tecnologias modernas como investigações em 
+      computação quântica.
+    speakers: 
+      - name: Felipe Portella
+        post: IT Advisor
+        org: Petróleo Brasileiro S.A. (PETROBRAS), Rio de Janeiro - RJ
+        homepage: https://www.linkedin.com/in/felipeportella/
+        bio: > 
+          Felipe Portella ingressou na Petrobras em 2007 e atualmente trabalha como consultor de TI 
+          especializado em computação de alto desempenho para simulação de reservatórios de petróleo. 
+          Ele possui mestrado em Ciência da Computação pela Pontifícia Universidade Católica do Rio de 
+          Janeiro em 2008 e obteve seu doutorado em 2024 pela Universidade Politécnica da Catalunha, 
+          realizado em colaboração com o Barcelona Supercomputing Center. Seu foco recente está nos 
+          desafios de cloud-bursting em HPC.
+        image_path: ./assets/images/speakers/FelipePortella.png
+      - name: Guilherme Vilela
+        post: Systems Engineer
+        org: Petróleo Brasileiro S.A. (PETROBRAS), Rio de Janeiro - RJ
+        homepage: https://www.linkedin.com/in/guilhermesvilela/
+        bio: > 
+          Guilherme Vilela é engenheiro eletrônico com mestrado em engenharia de sistemas pela Coppe e 
+          atualmente trabalha como consultor de HPC na Petrobras. Suas responsabilidades incluem 
+          projetar e definir especificações técnicas de soluções HPC, bem como solucionar problemas de 
+          desempenho relacionados a clusters Linux. Participou de vários projetos de supercomputadores, 
+          incluindo os cinco maiores e mais eficientes supercomputadores da América Latina, de acordo 
+          com o TOP500 e o Green500.
+        image_path: ./assets/images/speakers/GuilhermeVilela.jpg        
+    date: Quarta-feira, 5 de novembro
+    time: das 11 às 12 horas 
+    location: Auditório
+  - type: Acadêmica
+    title: "Tornando o Invisível Visível: Observabilidade em Ambientes Fog Computing"
+    abstract: > 
+      A crescente complexidade dos sistemas distribuídos no Fog Computing exige novas abordagens 
+      para garantir eficiência, confiabilidade e desempenho. Mais do que monitorar, é necessário tornar 
+      visíveis os estados internos do sistema, possibilitando diagnósticos proativos e tomadas de decisão 
+      inteligentes. Nesta palestra, discutiremos os fundamentos e a importância da observabilidade em 
+      ambientes Fog Computing, explorando como métricas, logs e traces podem ser combinados para fornecer 
+      uma visão holística do comportamento do sistema. O objetivo é mostrar que, ao iluminar o que antes 
+      era invisível, a observabilidade se torna um pilar estratégico para a consolidação do Fog Computing 
+      como infraestrutura essencial no Continuum Fog–Cloud, impulsionando inovações em áreas críticas como 
+      saúde digital e cidades inteligentes.
+    speakers: 
+      - name: Aletéia Patrícia Favacho de Araújo
+        post: Professora Associada
+        org: Universidade de Brasília (UnB), Brasília - DF
+        homepage: https://cic.unb.br/professores/132-aleteia
+        bio: > 
+          Aletéia de Araújo possui graduação no curso de Bacharelado em Ciências da 
+          Computação pela Universidade Federal do Pará (1997), mestrado em Ciências da Computação e Matemática 
+          Computacional pela Universidade de São Paulo (1999), doutorado em Informática pela Pontifícia 
+          Universidade Católica do Rio de Janeiro (2008) e ano passado (2024) fez pós-doutorado na University 
+          of Melbourne na Austrália. É bolsista de Produtividade em Pesquisa do CNPq – Nível C e professora 
+          Associada IV da Universidade de Brasília (UnB). Tem experiência na área de Ciência da Computação, 
+          com ênfase em Computação de Alto Desempenho, Nuvem Computacional e Fog Computing. Ela é cofundadora 
+          e coordenadora do projeto de extensão Meninas.comp da UnB desde 2010. Atualmente, é coordenadora do 
+          Programa Nacional da SBC – Meninas Digitais.
+        image_path: ./assets/images/speakers/Aleteia.jpg
+    date: Quinta-feira, 6 de novembro
+    time: das 11 às 12 horas
+    location: Auditório
+  - type: Acadêmica e Industrial
+    title: "Introdução ao Aprendizado de Máquina através de algoritmos com interface Myriad na plataforma HPCC Systems."
+    abstract: > 
+      A plataforma HPCC Systems de código aberto utiliza arquitetura de dados distribuída e uma metodologia 
+      de processamento paralelo para trabalhar com grandes conjuntos de dados. O "pipeline" de dados na 
+      plataforma acompanha os dados desde a origem até a sua ingestão no cluster Thor, onde eles são 
+      refinados através de limpeza e padronização dos dados e, em seguida, enriquecidos, para depois serem 
+      disponibilizados para aplicações de consulta em tempo real hospedadas no cluster Roxie. Em conjunto 
+      com essas duas arquiteturas de clusters e, compondo o chamado Power Trio, se faz presente a linguagem 
+      ECL, sendo a única linguagem necessária para expressar algoritmos de dados em toda a plataforma HPCC 
+      Systems. No cluster Thor, a linguagem ECL expressa “workflows” de dados que consistem em carregamento 
+      de dados, transformação, vinculação, indexação etc. No cluster Roxie, a linguagem ECL define serviços 
+      de consultas de dados. A linguagem ECL é implicitamente paralela, portanto, o mesmo código ECL 
+      desenvolvido para ser executado em um cluster de nó único pode ser executado com a mesma facilidade em 
+      um cluster com centenas de nós. O programador não precisa se preocupar em implementar a paralelização, 
+      e a linguagem ECL possui uma função otimizadora que garante o melhor desempenho para uma arquitetura 
+      específica. Integradas à linguagem ECL encontram-se disponíveis diversas bibliotecas de Machine 
+      Learning aplicáveis às várias categorias de aprendizado de máquina, onde cada algoritmo tem suas 
+      próprias peculiaridades, as quais devem ser levadas em consideração para maximizar a precisão 
+      preditiva, tendo em conta que todos os "bundles" operam de maneira muito semelhante, com algumas 
+      variações menores. Por esses motivos, é muito importante que não seja utilizada a exploração de 
+      Machine Learning para produzir produtos ou reivindicar habilidades sem antes consultar a documentação 
+      que acompanha cada "bundle", a fim de usá-lo de forma efetiva. Finalmente, objetivando demonstrar a 
+      aplicação de algoritmos de Aprendizado de Máquina com interface Myriad na plataforma HPCC Systems, 
+      será apresentado um estudo de caso durante a realização do “Minicurso” dentro da programação do ERAD-SE 2025.
+    speakers: 
+      - name: Mauro Marques
+        post: Information Systems Engineer
+        org: LexisNexis Risk Solutions, São Paulo - SP
+        homepage: https://www.linkedin.com/in/maurodonatomarques
+        bio: > 
+          Engenheiro de Software da área de Treinamento da LexisNexis Risk Solutions. Sua principal atuação está 
+          relacionada ao desenvolvimento de programas de treinamento no Brasil, contemplando o suporte e mentoria 
+          à comunidade acadêmica, no que tange à Projetos de Pesquisa, cursos de extensão extracurriculares, 
+          coorientação em disciplinas de Iniciação Científica, mentoria durante a elaboração de TCCs, 
+          dissertações de mestrado e teses de doutorado e, também, coautoria em artigos científicos, 
+          possibilitando que pesquisadores e estudantes utilizem a plataforma HPCC Systems, com capacidade 
+          computacional de alto desempenho, no desenvolvimento das suas atribuições acadêmicas.
+        image_path: ./assets/images/speakers/MauroMarques.jpg
+    date: Quinta-feira, 6 de novembro
+    time: das 13.30 às 14.00 horas
+    location: Auditório
