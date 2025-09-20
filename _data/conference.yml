@@ -144,6 +144,14 @@ deadlines:
   - date: 2025-09-22
     text: Submissão de Trabalhos
     pass_due: False
+    strike_through: True
+  - date: 2025-09-29
+    text: Submissão de Trabalhos
+    pass_due: False
+    strike_through: False
+  - date: 2025-09-29
+    text: Propostas de Minicursos
+    pass_due: False
     strike_through: False
 #  - date: 2025-10-13
 #    text: Notificação de Aceitação
