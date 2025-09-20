@@ -115,8 +115,20 @@ navbar:
     #  visible: True
   - id: 4
     label: Programação
-    path: /program.html
-    visible: False
+    visible: True
+    children:
+    - id: 1
+      label: Cronograma
+      path: /program.html
+      visible: False
+    - id: 2
+      label: Palestras
+      path: /talks.html
+      visible: True
+    - id: 3
+      label: Minicursos
+      path: /mcursos.html
+      visible: True
   - id: 5
     label: Inscrições
     visible: True
