@@ -82,9 +82,17 @@ body {
 
 .committee p {
     margin-left: 20px;
-    margin-right: 20px;
 }
 
+.palestras {
+    padding: 8px;
+    border-top: 0.05rem solid #e5e5e5;
+}
+
+.palestras p {
+    margin-left: 20px;
+    margin-right: 20px;
+}
 .card-header {
     padding-top: 4px;
     padding-bottom: 4px;
