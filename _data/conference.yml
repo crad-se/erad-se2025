@@ -165,7 +165,7 @@ deadlines:
     text: Propostas de Minicursos
     pass_due: True
     strike_through: False
-  - date: 2025-10-13
+  - date: 2025-10-20
     text: Notificação de Aceitação
     pass_due: False
     strike_through: False
