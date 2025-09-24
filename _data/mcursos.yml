@@ -8,7 +8,7 @@ minicursos:
       Este workshop leva os participantes através da criação de um cluster de HPC no AWS ParallelCluster 
       (através da interface do usuário e através da CLI), usando o Spack como gerenciador de pacotes para 
       instalar o software científico e executar uma ou mais simulações no cluster.
-    prereqs: ""
+    prereqs: "Nenhum"
     speakers: 
       - name: Marcelo Baptista
         post: Arquiteto de Soluções
