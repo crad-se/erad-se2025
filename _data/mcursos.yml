@@ -3,6 +3,27 @@ description: >
   estudantes uma oportunidade de experimentar novas tecnologias na prática.  
 minicursos:
   - type: Tecnológico
+    title: "Computação de Alto Desempenho e Computação Acelerada na AWS"
+    abstract: > 
+      Este workshop leva os participantes através da criação de um cluster de HPC no AWS ParallelCluster 
+      (através da interface do usuário e através da CLI), usando o Spack como gerenciador de pacotes para 
+      instalar o software científico e executar uma ou mais simulações no cluster.
+    prereqs: ""
+    speakers: 
+      - name: Marcelo Baptista
+        post: Arquiteto de Soluções
+        org: Amazon Web Services, São Paulo - SP
+        homepage: ""
+        bio: > 
+          Marcelo Baptista é Arquiteto de Soluções no time da AWS LATAM. Trabalha com soluções de TI há 
+          mais de 30 anos, com experiência em vários seguimentos de mercado e diferentes ambientes 
+          tecnológicos. Especialista em DevSecOps, Quantum Computing e HPC, apoia os clientes nos seus 
+          desafios, buscando as melhores soluções para as suas necessidades.
+        image_path: ./assets/images/speakers/MarceloBaptista.png
+    date: Quarta-feira, 5 de novembro
+    time: das 14.00 às 17.00 horas
+    location: Laboratório 304
+  - type: Tecnológico
     title: "Processamento e análise de Big Data para aplicação de algoritmos de Machine Learning com interface Myriad através da utilização da plataforma HPCC Systems."
     abstract: > 
       Ao longo do minicurso, os participantes terão a oportunidade de conhecer os conceitos essenciais 
