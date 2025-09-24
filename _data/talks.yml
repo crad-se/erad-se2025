@@ -6,6 +6,24 @@ description: >
   destacar as principais habilidades e tecnologias que alunos podem achar úteis em seu futuro profissional.
 palestras:
   - type: Acadêmica e Industrial
+    title: HPC e Computação Acelerada na AWS
+    abstract: >
+      Um mergulho profundo em computação e armazenamento em Nuvem, HPC e Computação Acelerada.
+    speakers: 
+      - name: Marcelo Baptista
+        post: Arquiteto de Soluções
+        org: Amazon Web Services, São Paulo - SP
+        homepage: ""
+        bio: > 
+          Marcelo Baptista é Arquiteto de Soluções no time da AWS LATAM. Trabalha com soluções de TI há 
+          mais de 30 anos, com experiência em vários seguimentos de mercado e diferentes ambientes 
+          tecnológicos. Especialista em DevSecOps, Quantum Computing e HPC, apoia os clientes nos seus 
+          desafios, buscando as melhores soluções para as suas necessidades.
+        image_path: ./assets/images/speakers/MarceloBaptista.png
+    date: Quarta-feira, 5 de novembro
+    time: das 9.30 às 10.30 horas 
+    location: Auditório
+  - type: Acadêmica e Industrial
     title: Jornada de HPC da Petrobras
     abstract: >
       Apresentação da trajetória de mais de 50 anos do HPC na Petrobras, desde os primeiros sistemas de 
