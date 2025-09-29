@@ -158,7 +158,7 @@ deadlines:
 #    pass_due: True
 #    strike_through: True
   - date: 2025-09-29
-    text: Submissão de Trabalhos (Prorrogação Final)
+    text: Submissão de Trabalhos
     pass_due: False
     strike_through: True
   - date: 2025-09-29
@@ -166,7 +166,7 @@ deadlines:
     pass_due: True
     strike_through: False
   - date: 2025-10-05
-    text: Submissão de Trabalhos
+    text: Submissão de Trabalhos (Prorrogação Final)
     pass_due: True
     strike_through: False
   - date: 2025-10-20
