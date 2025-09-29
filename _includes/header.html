@@ -64,8 +64,8 @@
                     {% else %}
                     {% assign active = "" %}
                     {% endif %}
-                    <div class="carousel-item {{active}}">
-                        <img class="img-fluid" src="{{ slide.image_path }}" alt="{{ slide.description }}">
+                    <div class="carousel-item {{active}} overflow-hidden">
+                        <img class="img-fluid w-100 h-100" style="object-fit:cover;" src="{{ slide.image_path }}" alt="{{ slide.description }}">
                         <div class="carousel-caption">
                             <p class="align-bottom text-white">
                                 <span class="px-3 py-1 rounded">
