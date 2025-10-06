@@ -162,11 +162,11 @@ deadlines:
     pass_due: False
     strike_through: True
   - date: 2025-09-29
-    text: Propostas de Minicursos
+    text: Propostas de Minicursos (Fechada)
     pass_due: True
     strike_through: False
   - date: 2025-10-05
-    text: Submissão de Trabalhos (Prorrogação Final)
+    text: Submissão de Trabalhos (Fechada)
     pass_due: True
     strike_through: False
   - date: 2025-10-20
