@@ -12,7 +12,9 @@ layout: page
             da {{site.data.conference.location2}}, localizada em {{site.data.conference.country}},
             de {{site.data.conference.date}}.
         </p>
-
+        {% if site.data.conference.description %}
+            <p> {{site.data.conference.description}} </p>
+        {% endif %}
         <!-- new -->
         <div class="card">
         <div class="card-block bg-dark text-white committee">
@@ -21,8 +23,8 @@ layout: page
                 -->
                 <img class="speaker-photo" src="{{site.data.conference.sbc_path}}" alt="SBC"> 
                 <div class="align-self-center text-justify">
-                    {% if site.data.conference.description %}
-                        <p>{{site.data.conference.description}}</p>    
+                    {% if site.data.conference.sbc_description %}
+                        <p>{{site.data.conference.sbc_description}}</p>    
                     <!-- <p class="card-subtitle"><b>Cargo</b>: {{ speaker.post }}</p> -->
                     {% endif %}
                     {{content}}
