@@ -13,12 +13,12 @@ body {
 
 .jumbotron,
 .carousel-item {
-    height: 270px;
+    height: 280px;
     border-radius: 0;
 }
 
 .jumbotron {
-    background-color: #e0e8ef;
+    background-color: #99c5ff;
     padding: 0px 5px 0px 5px;
     margin: 0px 0px 5px 0px;
 }
