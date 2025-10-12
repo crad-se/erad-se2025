@@ -19,7 +19,7 @@ location: Instituto de Computação
 location2: Universidade Federal Fluminense (UFF)
 country: Niterói, Brasil
 
-logo_path: ./assets/images/LogoSBC-Site.png
+logo_path: ./assets/images/ERAD-SE-FLogo.png
 sbc_path: ./assets/images/LogoSBC-Site.png
 sbc_description: > 
   A ERAD-SE é promovida pela Sociedade Brasileira de Computação (SBC) e pela recente criada Comissão Regional 
@@ -30,7 +30,7 @@ sbc_description: >
 
 # if show_logo is false, show_title: false has no effect
 show_logo: true
-show_title: true
+show_title: false
 
 slideshow:
   - id: 0
@@ -67,6 +67,11 @@ slideshow:
   - id: 6
     image_path: ./assets/images/slideshow/Icarai.jpg
     description: Niterói
+    photographer_name: "Vinod Rebello"
+    photographer_link: ""
+  - id: 7
+    image_path: ./assets/images/ERAD-SE-3-peach.png
+    description: ES-MG-RJ
     photographer_name: "Vinod Rebello"
     photographer_link: ""
 navbar:
