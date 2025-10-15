@@ -28,6 +28,46 @@ minicursos:
     time: das 14.00 às 17.00 horas
     location: Laboratório 304
   - type: Tecnológico
+    title: "Guia Prático de Treinamento Distribuído para LLMs."
+    abstract: > 
+      Este minicurso oferece uma visão geral das técnicas para o pré-treinamento distribuído de Modelos 
+      de Linguagem de Grande Escala (LLMs). O objetivo principal é capacitar os participantes a 
+      compreender e superar os desafios de memória e computação inerentes ao treinamento de modelos com 
+      bilhões de parâmetros. Abordaremos desde os fundamentos do treinamento em uma única GPU até 
+      estratégias de paralelismo complexas, como ZeRO, paralelismo de tensor, contexto, pipeline e de 
+      experts. Ao término do minicurso, os participantes estarão aptos a analisar, otimizar e escolher 
+      as configurações mais adequadas para o treinamento de LLMs em larga escala.
+    prereqs: Nenhum.
+    speakers: 
+      - name: Leon Barboza
+        post: Engenheiro de Software Júnior
+        org: Centro de Estudos e Sistemas Avançados do Recife (CESAR), Rio de Janeiro - RJ
+        homepage: https://www.linkedin.com/in/leon-barboza-47a315256
+        bio: > 
+          Engenheiro de Software Júnior no Centro de Estudos e Sistemas Avançados do Recife (CESAR) e 
+          graduado em Matemática Aplicada, com ênfase em Computação Científica pela UFRJ. Possui 
+          experiência em soluções de Inteligência Artificial, atuando no treinamento, fine-tuning e 
+          deploy de modelos de Machine Learning e Large Language Models (LLMs). Tem experiência em 
+          programação distribuída e paralela e administração de sistemas Linux. Atualmente, 
+          especializa-se em Computação de Alto Desempenho (HPC).
+        image_path: ./assets/images/speakers/LeonBarboza.jpg
+      - name: Evaldo Costa
+        post: Sênior Technical Software Manager HPC
+        org: Centro de Estudos e Sistemas Avançados do Recife (CESAR), Rio de Janeiro - RJ
+        homepage: https://www.linkedin.com/in/evaldo-costa-2019
+        bio: > 
+          Graduado em Engenharia Elétrica, ênfase em Telecomunicações pela Universidade Estácio de Sá 
+          (UNESA), com mestrado e doutorado em Informática pela Universidade Federal do Rio de Janeiro 
+          (UFRJ). Atualmente atua como Sênior Technical Software Manager HPC no Centro de Estudos e 
+          Sistemas Avançados do Recife (CESAR) e é professor do programa de pós-graduação do CESAR 
+          School. Tem experiência na área de Ciência da Computação, atuando principalmente nos 
+          seguintes temas: programação distribuída e paralela, computação de alto desempenho, 
+          inteligência artificial e bioinformática.
+        image_path: ./assets/images/speakers/EvaldoCosta.jpeg
+    date: Quinta-feira, 6 de novembro
+    time: das 8.30 às 10.30 horas
+    location: Auditório
+  - type: Tecnológico
     title: "Processamento e análise de Big Data para aplicação de algoritmos de Machine Learning com interface Myriad através da utilização da plataforma HPCC Systems."
     abstract: > 
       Ao longo do minicurso, os participantes terão a oportunidade de conhecer os conceitos essenciais 
