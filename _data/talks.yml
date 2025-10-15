@@ -65,6 +65,50 @@ palestras:
     location: Auditório
   - id: pal-alet
     type: Acadêmica
+    title: "The Era of FPGA Acceleration"
+    abstract: > 
+      With recent dramatic advances in Field Programmable Gate Arrays (FPGAs), these devices are being 
+      used along with multi-core and novel memory technologies to realize advanced platforms to 
+      accelerate complex applications. We are indeed witnessing the “Golden Age” of FPGA acceleration; 
+      high performance FPGA solutions can be quickly designed and deployed while meeting stringent 
+      application performance requirements of latency, throughput, energy efficiency, etc. We will 
+      review advances in reconfigurable computing over the past three decades leading up to current 
+      innovations in FPGA accelerators for data science. We will illustrate FPGA-based parallel 
+      architectures and algorithms for a variety of data analytics kernels in commercial, defense, 
+      and space applications. Using our algorithm-architecture co-design methodology to realize high 
+      performance accelerators for these challenging applications, we demonstrate the role of modeling 
+      and algorithmic optimizations to develop highly efficient Intellectual Property (IP) cores for 
+      FPGAs and realize end to end application acceleration. We illustrate our methodology by 
+      developing high performance FPGA designs for graph analytics, graph machine learning, privacy 
+      preserving computations, fully homomorphic encoding, SAR ATR, etc. We conclude by identifying 
+      opportunities and challenges in exploiting emerging heterogeneous architectures composed of 
+      multi-core processors, FPGAs, integrated GPUs and coherent memory. 
+    speakers: 
+      - name: Viktor K. Prasanna 
+        post: Charles Lee Powell Chair in Engineering
+        org: University of Southern California (USC), Los Angeles - USA
+        homepage: https://sites.usc.edu/prasanna
+        bio: > 
+          Viktor K. Prasanna is the Charles Lee Powell Chair in Engineering in the Ming Hsieh Department
+          of Electrical and Computer Engineering and Professor of Computer Science at the University of
+          Southern California. He is the director of the Center for Energy Informatics at USC and leads
+          the FPGA (fpga.usc.edu) and Data Science Labs (dslab.usc.edu). His research interests include
+          parallel and distributed computing, accelerator design, reconfigurable architectures and 
+          algorithms and high performance computing. He serves as the Editor-in-Chief of the Journal of
+          Parallel and Distributed Computing. Prasanna was the founding Chair of the IEEE Computer 
+          Society Technical Committee on Parallel Processing. He is the Steering Chair of the IEEE 
+          International Parallel and Distributed Processing Symposium. He is a Fellow of the IEEE, the 
+          ACM and the American Association for Advancement of Science (AAAS). He is a recipient of the
+          2009 Outstanding Engineering Alumnus Award from the Pennsylvania State University and a 2019 
+          Distinguished Alumnus Award from the Indian Institute of Science. He received the 2015 W. 
+          Wallace McDowell award from the IEEE Computer Society for his contributions to reconfigurable
+          computing. He is a member of Academia Europaea.
+        image_path: ./assets/images/speakers/ViktorP.png
+    date: Quinta-feira, 6 de novembro
+    time: das 11 às 12 horas
+    location: Auditório
+  - id: pal-alet
+    type: Acadêmica
     title: "Tornando o Invisível Visível: Observabilidade em Ambientes Fog Computing"
     abstract: > 
       A crescente complexidade dos sistemas distribuídos no Fog Computing exige novas abordagens 
@@ -93,7 +137,7 @@ palestras:
           Programa Nacional da SBC – Meninas Digitais.
         image_path: ./assets/images/speakers/Aleteia.jpg
     date: Quinta-feira, 6 de novembro
-    time: das 11 às 12 horas
+    time: das 13.30 às 14.30 horas
     location: Auditório
   - id: pal-hpcc
     type: Acadêmica e Industrial
