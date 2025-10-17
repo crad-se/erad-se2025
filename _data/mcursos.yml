@@ -47,8 +47,8 @@ minicursos:
           Engenheiro de Software Júnior no Centro de Estudos e Sistemas Avançados do Recife (CESAR) e 
           graduado em Matemática Aplicada, com ênfase em Computação Científica pela UFRJ. Possui 
           experiência em soluções de Inteligência Artificial, atuando no treinamento, fine-tuning e 
-          deploy de modelos de Machine Learning e Large Language Models (LLMs). Tem experiência em 
-          programação distribuída e paralela e administração de sistemas Linux. Atualmente, 
+          deploy de modelos de Machine Learning e de Large Language Models (LLMs). Tem experiência em 
+          programação distribuída e paralela e na administração de sistemas Linux. Atualmente, 
           especializa-se em Computação de Alto Desempenho (HPC).
         image_path: ./assets/images/speakers/LeonBarboza.jpg
       - name: Evaldo Costa
@@ -56,7 +56,7 @@ minicursos:
         org: Centro de Estudos e Sistemas Avançados do Recife (CESAR), Rio de Janeiro - RJ
         homepage: https://www.linkedin.com/in/evaldo-costa-2019
         bio: > 
-          Graduado em Engenharia Elétrica, ênfase em Telecomunicações pela Universidade Estácio de Sá 
+          Graduado em Engenharia Elétrica com ênfase em Telecomunicações, pela Universidade Estácio de Sá 
           (UNESA), com mestrado e doutorado em Informática pela Universidade Federal do Rio de Janeiro 
           (UFRJ). Atualmente atua como Sênior Technical Software Manager HPC no Centro de Estudos e 
           Sistemas Avançados do Recife (CESAR) e é professor do programa de pós-graduação do CESAR 
@@ -66,6 +66,49 @@ minicursos:
         image_path: ./assets/images/speakers/EvaldoCosta.jpeg
     date: Quinta-feira, 6 de novembro
     time: das 8.30 às 10.30 horas
+    location: Auditório
+  - type: Tecnológico
+    title: "Computação Sustentável na Computação de Alto Desempenho: Motivação, relevância, como colocá-la em prática."
+    abstract: > 
+      Aplicações de larga escala, como simulações e treinamento de inteligência artificial, requerem 
+      grande poder computacional. Aglomerados de computadores e aceleradores são utilizados como 
+      solução para atender à demanda de computação existente, porém, seu uso depende do consumo de 
+      grande quantidade de energia, tanto para manter a infraestrutura computacional requerida quanto 
+      para executar as aplicações que dependem dessa infraestrutura. A computação sustentável — ou 
+      computação verde — preocupa-se com os impactos ambientais da computação de forma geral e, em 
+      particular, da computação de alto desempenho e volta-se ao estudo de técnicas e novas práticas 
+      que permitam mitigá-los. Neste minicurso, apresentaremos uma breve visão histórica sobre o 
+      conceito e a prática de computação sustentável, seus elementos e abrangência, técnicas, 
+      ferramentas e métricas associadas, e de que forma ela vem sendo inserida no contexto de 
+      computação de alto desempenho. 
+    prereqs: Nenhum.
+    speakers: 
+      - name: Gustavo Henrique Lemos de Lima
+        post: Aluno de Iniciação Científica
+        org: Universidade Federal do Rio de Janeiro (UFRJ), Rio de Janeiro - RJ
+        homepage: http://lattes.cnpq.br/1631956148905152
+        bio: > 
+          Gustavo Henrique é bolsista de iniciação científica da FAPERJ e, atualmente, cursa o 8º 
+          período do curso de Ciência da Computação na Universidade Federal do Rio de Janeiro, onde 
+          realiza pesquisa em computação sustentável no contexto do desenvolvimento de aplicações 
+          paralelas. Currı́culo Lattes: <a href="http://lattes.cnpq.br/1631956148905152" 
+          target="_blank"><i class="fa fa-external-link fa-fw" aria-hidden="true"></i>
+          http://lattes.cnpq.br/1631956148905152</a>
+        image_path: ./assets/images/speakers/GustavoHLL.jpg
+      - name: Silvana Rossetto
+        post: Professora Associada
+        org: Universidade Federal do Rio de Janeiro (UFRJ), Rio de Janeiro - RJ
+        homepage: https://www.linkedin.com/in/silvana-rossetto-7508535
+        bio: > 
+          Silvana Rossetto é professora associada do Instituto de Computação da Universidade Federal 
+          do Rio de Janeiro. Atua e tem interesse nas áreas de computação concorrente, paralela e 
+          distribuída; no ensino de computação e em computação sustentável. 
+          Currı́culo Lattes: <a href="http://lattes.cnpq.br/0054098292730720" 
+          target="_blank"><i class="fa fa-external-link fa-fw" aria-hidden="true"></i>
+          http://lattes.cnpq.br/0054098292730720</a>
+        image_path: ./assets/images/speakers/SilvanaRossetto.jpg
+    date: Quinta-feira, 6 de novembro
+    time: das 15.30 às 17.30 horas
     location: Auditório
   - type: Tecnológico
     title: "Processamento e análise de Big Data para aplicação de algoritmos de Machine Learning com interface Myriad através da utilização da plataforma HPCC Systems."
