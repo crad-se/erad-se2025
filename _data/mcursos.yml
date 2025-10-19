@@ -2,7 +2,8 @@ description: >
   Segue abaixo detalhes sobre os <b><i>Minicursos Tecnológicos</i></b> oferecendo principalmente aos 
   estudantes uma oportunidade de experimentar novas tecnologias na prática.  
 minicursos:
-  - type: Tecnológico
+  - id: mc-aws
+    type: Tecnológico
     title: "Computação de Alto Desempenho e Computação Acelerada na AWS"
     abstract: > 
       Este workshop leva os participantes através da criação de um cluster de HPC no AWS ParallelCluster 
@@ -27,7 +28,8 @@ minicursos:
     date: Quarta-feira, 5 de novembro
     time: das 14.00 às 17.00 horas
     location: Laboratório 304
-  - type: Tecnológico
+  - id: mc-cesar
+    type: Tecnológico
     title: "Guia Prático de Treinamento Distribuído para LLMs."
     abstract: > 
       Este minicurso oferece uma visão geral das técnicas para o pré-treinamento distribuído de Modelos 
@@ -67,7 +69,8 @@ minicursos:
     date: Quinta-feira, 6 de novembro
     time: das 8.30 às 10.30 horas
     location: Auditório
-  - type: Tecnológico
+  - id: mc-ufrj
+    type: Tecnológico
     title: "Computação Sustentável na Computação de Alto Desempenho: Motivação, relevância, como colocá-la em prática."
     abstract: > 
       Aplicações de larga escala, como simulações e treinamento de inteligência artificial, requerem 
@@ -110,7 +113,8 @@ minicursos:
     date: Quinta-feira, 6 de novembro
     time: das 15.30 às 17.30 horas
     location: Auditório
-  - type: Tecnológico
+  - id: mc-hpcc
+    type: Tecnológico
     title: "Processamento e análise de Big Data para aplicação de algoritmos de Machine Learning com interface Myriad através da utilização da plataforma HPCC Systems."
     abstract: > 
       Ao longo do minicurso, os participantes terão a oportunidade de conhecer os conceitos essenciais 
