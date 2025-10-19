@@ -63,7 +63,7 @@ palestras:
     date: Quarta-feira, 5 de novembro
     time: das 11 às 12 horas 
     location: Auditório
-  - id: pal-alet
+  - id: pal-fpga
     type: Acadêmica
     title: "The Era of FPGA Acceleration"
     abstract: > 
