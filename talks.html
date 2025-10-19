@@ -12,7 +12,7 @@ slide_id: 3
                 <p>{{site.data.talks.description}}</p>
             </div>
             {% for talk in site.data.talks.palestras %}
-            <div>
+            <div id="{{talk.id}}">
                 <div class="card">
                     <div class="card-header text-white bg-dark" style="font-size: 100%;">Palestra {{talk.type}}: <strong><i>{{talk.title}}</i></strong>
                     </div>
