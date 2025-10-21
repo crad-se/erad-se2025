@@ -198,10 +198,10 @@ sponsors:
   - name: Amazon Web Services
     logo_path: ./assets/images/sponsors/AWS_logo_RGB_BLK.png
     url: https://aws.amazon.com/
-  - name: Centro de Estudos e Sistemas Avançados do Recife
+  - name: Centro de Estudos e<br>Sistemas Avançados do Recife
     logo_path: ./assets/images/sponsors/logo-cesar.png
     url: https://www.cesar.org.br/
-  - name: Hewlett Packard Enterprise Company (HPE) 
+  - name: Hewlett Packard Enterprise (HPE) 
     logo_path: ./assets/images/sponsors/HPE.png
     url: https://www.hpe.com/br/pt/home.html
   - name: LexisNexis Risk Solutions
