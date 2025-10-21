@@ -110,17 +110,17 @@ navbar:
   - id: 3
     label: Submissões
     # Added the following line since only child
-    path: /submission.html 
+    # path: /submission.html 
     visible: True
-    #children:
-    #- id: 1
-    #  label: Submission
-    #  path: /submission.html
-    #  visible: True
-    #- id: 2
-    #  label: Artigos Aceitos
-    #  path: /accepted.html
-    #  visible: True
+    children:
+    - id: 1
+      label: Como Submeter
+      path: /submission.html
+      visible: True
+    - id: 2
+      label: Artigos Aceitos
+      path: /accepted.html
+      visible: True
   - id: 4
     label: Programação
     visible: True
@@ -201,9 +201,9 @@ sponsors:
   - name: Centro de Estudos e Sistemas Avançados do Recife
     logo_path: ./assets/images/sponsors/logo-cesar.png
     url: https://www.cesar.org.br/
-#  - name: Hewlett Packard Enterprise Company (HPE) 
-#    logo_path: ./assets/images/sponsors/HPE.png
-#    url: https://www.hpe.com/br/pt/home.html
+  - name: Hewlett Packard Enterprise Company (HPE) 
+    logo_path: ./assets/images/sponsors/HPE.png
+    url: https://www.hpe.com/br/pt/home.html
   - name: LexisNexis Risk Solutions
     logo_path: ./assets/images/sponsors/logo_lexis.png
     url: https://risk.lexisnexis.com.br/
