@@ -63,7 +63,7 @@ sources:
 template:
   name: SBC Modelos para Publicações
   description: formato para artigos a ser publicados pela SBC
-  url: ./assets/files/sbc-template.zip
+  url: https://www.sbc.org.br/wp-content/uploads/2024/07/modelosparapublicaodeartigos.zip
   overleaf: https://www.overleaf.com/latex/templates/sbc-conferences-template/blbxwjwzdngr
 
 publisher: Sociedade Brasileira de Computação
