@@ -84,7 +84,8 @@ navbar:
     path: /organization.html
     visible: True
   - id: 2
-    label: Chamada de Trabalhos
+#    label: Chamada de Trabalhos
+    label: Chamadas
     visible: True
     children:
     - id: 1
