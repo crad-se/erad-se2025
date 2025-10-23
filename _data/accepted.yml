@@ -129,32 +129,6 @@
     email: lucia@ic.uff.br
     affiliation: UFF
 
-- id: 16956	
-  track: Fórum de Pós-Graduação
-  title: "Análise de um Log Real de Jobs visando a Previsão de Tempos de Espera para Execução em um Cluster de Alto Desempenho"
-  authors:
-  - name: Bernardo Gallo
-    email: bernardo.gv@hotmail.com
-    affiliation: Universidade Federal Fluminense — UFF
-  - name: Matheus Marotti
-    email: matheusmarotti@id.uff.br
-    affiliation: UFF
-  - name: Lucia M.A. Drummond
-    email: lucia@ic.uff.br
-    affiliation: UFF
-  - name: José Viterbo
-    email: viterbo@ic.uff.br
-    affiliation: UFF
-  - name: Felipe Portella
-    email: felipe@portella.com.br
-    affiliation: Petróleo Brasileiro S.A. — PETROBRAS
-  - name: Paulo José Braga Estrela
-    email: paulo.estrela@cc.unifacs.br
-    affiliation: PETROBRAS
-  - name: Renzo Quedevez Malini
-    email: rmalini@inf.ufes.br
-    affiliation: PETROBRAS
-
 - id: 16932	
   track: Fórum de Iniciação Científica
   title: "Modelo de refinamento em paralelo para malhas de elementos finitos"
@@ -199,6 +173,32 @@
   - name: Hiago Mayk Gomes de Araujo Rocha
     email: mayk@lncc.br
     affiliation: LNCC
+
+- id: 16956	
+  track: Fórum de Pós-Graduação
+  title: "Análise de um Log Real de Jobs visando a Previsão de Tempos de Espera para Execução em um Cluster de Alto Desempenho"
+  authors:
+  - name: Bernardo Gallo
+    email: bernardo.gv@hotmail.com
+    affiliation: Universidade Federal Fluminense — UFF
+  - name: Matheus Marotti
+    email: matheusmarotti@id.uff.br
+    affiliation: UFF
+  - name: Lucia M.A. Drummond
+    email: lucia@ic.uff.br
+    affiliation: UFF
+  - name: José Viterbo
+    email: viterbo@ic.uff.br
+    affiliation: UFF
+  - name: Felipe Portella
+    email: felipe@portella.com.br
+    affiliation: Petróleo Brasileiro S.A. — PETROBRAS
+  - name: Paulo José Braga Estrela
+    email: paulo.estrela@cc.unifacs.br
+    affiliation: PETROBRAS
+  - name: Renzo Quedevez Malini
+    email: rmalini@inf.ufes.br
+    affiliation: PETROBRAS
 
 - id: 16958	
   track: Concurso de Dissertação
