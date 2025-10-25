@@ -184,6 +184,10 @@ deadlines:
     strike_through: True
   - date: 2025-10-27
     text: Entrega da Versão Final
+    pass_due: False
+    strike_through: True
+  - date: 2025-10-31
+    text: Entrega da Versão Final
     pass_due: True
     strike_through: False
   - date: 2025-10-31
