@@ -179,11 +179,25 @@ schedule:
     title: "Lunch"
     type: "service"  
   - startTime: "13:30"
+    endTime: "14:15"
+    title: "Fórum de Iniciação Científica"
+    type: "session"
+    session: <i>Arquitetura de Sistemas</i>
+    chair: "Gabriel Silva"
+    events:
+    - pid: 16918
+    - pid: 16905
+    - pid: 17063
+  - startTime: "14:15"
     endTime: "15:00"
     title: "Fórum de Iniciação Científica"
     type: "session"
+    session: <i>Otimização de Aplicações</i>
+    chair: "Gabriel Silva"
     events:
-    - pid: 
+    - pid: 16932
+    - pid: 16937
+    - pid: 16923
   - startTime: "15:00"
     endTime: "15:30"
     title: "Coffee break"
