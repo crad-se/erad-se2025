@@ -107,7 +107,7 @@ schedule:
     speaker: "Prof. Viktor Prasanna (Univeristy of Southern California, EUA)"
     chair: "Vinod Rebello"
     type: "talk"
-    id: pal-viktor
+    id: pal-fpga
   - startTime: "12:00"
     endTime: "13:30"
     title: "Lunch"
