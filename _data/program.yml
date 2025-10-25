@@ -95,8 +95,14 @@ schedule:
     endTime: "10:30"
     title: "Fórum de Iniciação Científica"
     type: "session"
+    session: <i>Análise de Desempenho em Aplicações de Bioinformática</i>
+    chair: "A ser definido"
     events:
-    - pid: 
+    - pid: 17007
+    - pid: 16942
+    - pid: 17086
+    - pid: 16924
+    - pid: 16964
   - startTime: "10:30"
     endTime: "11:00"
     title: "Coffee break"
