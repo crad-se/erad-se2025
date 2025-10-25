@@ -46,7 +46,7 @@ schedule:
     type: "service"
   - startTime: "13:30"
     endTime: "15:00"
-    id: mc-hpcc
+    id: mc-aws
     title: "Minicurso: Computação de Alto Desempenho e Computação Acelerada na AWS"
     speaker: "Marcelo Baptista (Amazon Web Services, São Paulo)"
     type: "minicurso"
