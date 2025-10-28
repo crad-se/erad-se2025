@@ -39,6 +39,12 @@ layout: page
 
         {{content}}
         -->
+        {% if site.data.conference.social_media.insta_link %}
+        <p>
+            <img src="./assets/images/instagram1.png" width="50" alt="Instagram">    
+            Siga-nos também no <a href="{{site.data.conference.social_media.insta_link}}"><strong>Instagram</strong></a>
+        </p>
+        {% endif %}
         <br>
         {% include contact-us.html %}
 
