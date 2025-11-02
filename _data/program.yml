@@ -180,8 +180,8 @@ schedule:
     type: "service"
   - startTime: "11:00"
     endTime: "12:00"
-    title: "Palestra: Título a confirmar"
-    speaker: "Monica Costa (Hewlett Packard Enterprise, Rio de Janeiro)"
+    title: "Palestra: HPE HPC-AI Supercomputing"
+    speaker: "Mônica A. Costa (Hewlett Packard Enterprise, Rio de Janeiro)"
     chair: "Cristina Boeres"
     type: "talk"
     id: pal-hpe
