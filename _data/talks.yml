@@ -180,3 +180,31 @@ palestras:
     date: Quinta-feira, 6 de novembro
     time: das 14.30 às 15.00 horas
     location: Auditório
+  - id: pal-hpe
+    type: Industrial
+    title: "HPE HPC-AI Supercomputing."
+    abstract: > 
+      Vamos explorar a liderança mundial da HPE em Computação de Alto Desempenho e Inteligência 
+      Artificial, reforçando o posicionamento da HPE no Top500 List, apresentar os casos de sucesso 
+      mais recentes com o Supercomputador HPE CRAY, o portfólio de HPC-AI e as opções de refrigeração 
+      DLC.
+    speakers: 
+      - name: Mônica A. Costa
+        post: LATAM HPC AI Sales Specialist
+        org: Hewlett Packard Enterprise, Rio de Janeiro - RJ
+        homepage: https://www.linkedin.com/in/monica-araujo-costa-988a60
+        bio: > 
+          Mônica Costa é bacharel em Engenharia Eletrônica, com Pós-graduação em Estratégia e Gestão 
+          Empresarial e Pós-graduação em Transformação Digital pela PUC-Rio, possui mais de 30 anos de 
+          experiência em Computação de Alto Desempenho, iniciando sua carreira na Control Data 
+          Corporation (CDC) como Engenheira de Suporte de mainframes CDC. Na década de 1990 a Silicon 
+          Graphics International (SGI) se estabeleceu no Brasil e incorporou as atividades da CDC, que 
+          já utilizava workstations SGI como console dos mainframes. Desde então Mônica Costa passou a 
+          integrar o time de Engenheiros da SGI, por onde permaneceu por 25 anos, até 2017 quando a 
+          Hewlett Packard Enterprise (HPE) incorporou a SGI, passando a ter a posição de Especialista 
+          em Computação de Alto Desempenho e Inteligência Artificial, sendo responsável por HPC/AI 
+          para a América Latina.
+        image_path: ./assets/images/speakers/MonicaCosta.jpg
+    date: Sexta-feira, 7 de novembro
+    time: das 11.00 às 12.00 horas
+    location: Auditório
