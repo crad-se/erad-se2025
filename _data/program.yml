@@ -67,14 +67,19 @@ schedule:
     type: "session"
     chair: "Gabriel Silva"
     events:
-    - title: "Uma Abordagem do Uso de Risc-V em Computação de Alto Desempenho (HPC)"
-      speakers: "Leon Barboza, Marcondes Gorgonho, Evaldo Costa (Centro de Estudos e Sistemas Avançados do Recife — CESAR)"
-    - title: "Explorando Modelos Preditivos de Tempo de Execução de Simulações de Reservatório em Clusters HPC"
-      speakers: "Alan Lira Nunes (Universidade Federal Fluminense — UFF), Lucas Alexandre Furtado da Costa (Centro de Estudos e Sistemas Avançados do Recife — CESAR), Felipe Portella (Petróleo Brasileiro S.A. — PETROBRAS), José Viterbo (UFF), Leonardo Valeriano Neri (CESAR), Paulo José Braga Estrela (PETROBRAS), Luciana de Campos Franci (CESAR), Renzo Quedevez Malini (PETROBRAS), Lucia M.A. Drummond (UFF)"
-    - title: "Análise de um Log Real de Jobs visando a Previsão de Tempos de Espera para Execução em um Cluster de Alto Desempenho"
-      speakers: "Bernardo Gallo (Universidade Federal Fluminense — UFF), Matheus Marotti (UFF), Lucia M.A. Drummond (UFF), José Viterbo (UFF), Felipe Portella (Petróleo Brasileiro S.A. — PETROBRAS), Paulo José Braga Estrela (PETROBRAS), Renzo Quedevez Malini (PETROBRAS)"
-    - title: "Modelos de Deep Learning em auxílio à previsão de variáveis meteorológicas em aeroportos na Antártica"
-      speakers: "Alana de Lima Pontes Gadelha, Lucia M.A. Drummond, Leandro Santiago de Araújo (Universidade Federal Fluminense — UFF)"
+#    - title: "Uma Abordagem do Uso de Risc-V em Computação de Alto Desempenho (HPC)"
+#      speakers: "Leon Barboza, Marcondes Gorgonho, Evaldo Costa (Centro de Estudos e Sistemas Avançados do Recife — CESAR)"
+    - pid: 16931
+    - pid: 16942
+    - pid: 16956
+    - pid: 17119
+    
+#    - title: "Explorando Modelos Preditivos de Tempo de Execução de Simulações de Reservatório em Clusters HPC"
+#      speakers: "Alan Lira Nunes (Universidade Federal Fluminense — UFF), Lucas Alexandre Furtado da Costa (Centro de Estudos e Sistemas Avançados do Recife — CESAR), Felipe Portella (Petróleo Brasileiro S.A. — PETROBRAS), José Viterbo (UFF), Leonardo Valeriano Neri (CESAR), Paulo José Braga Estrela (PETROBRAS), Luciana de Campos Franci (CESAR), Renzo Quedevez Malini (PETROBRAS), Lucia M.A. Drummond (UFF)"
+#    - title: "Análise de um Log Real de Jobs visando a Previsão de Tempos de Espera para Execução em um Cluster de Alto Desempenho"
+#      speakers: "Bernardo Gallo (Universidade Federal Fluminense — UFF), Matheus Marotti (UFF), Lucia M.A. Drummond (UFF), José Viterbo (UFF), Felipe Portella (Petróleo Brasileiro S.A. — PETROBRAS), Paulo José Braga Estrela (PETROBRAS), Renzo Quedevez Malini (PETROBRAS)"
+#    - title: "Modelos de Deep Learning em auxílio à previsão de variáveis meteorológicas em aeroportos na Antártica"
+#      speakers: "Alana de Lima Pontes Gadelha, Lucia M.A. Drummond, Leandro Santiago de Araújo (Universidade Federal Fluminense — UFF)"
   - startTime: "17:50"
     endTime: "18:30"
     type: "service"
