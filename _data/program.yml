@@ -69,8 +69,8 @@ schedule:
     events:
 #    - title: "Uma Abordagem do Uso de Risc-V em Computação de Alto Desempenho (HPC)"
 #      speakers: "Leon Barboza, Marcondes Gorgonho, Evaldo Costa (Centro de Estudos e Sistemas Avançados do Recife — CESAR)"
+    - pid: 16907
     - pid: 16931
-    - pid: 16942
     - pid: 16956
     - pid: 17119
     
