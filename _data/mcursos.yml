@@ -27,7 +27,7 @@ minicursos:
         image_path: ./assets/images/speakers/MarceloBaptista.png
     date: Quarta-feira, 5 de novembro
     time: das 13.30 às 16.30 horas
-    location: Laboratório 304
+    location: Laboratório 302
   - id: mc-ufrj
     type: Tecnológico
     title: "Computação Sustentável na Computação de Alto Desempenho: Motivação, relevância, como colocá-la em prática."
@@ -105,7 +105,7 @@ minicursos:
         image_path: ./assets/images/speakers/MauroMarques.jpg
     date: Sexta-feira, 7 de novembro
     time: das 9.00 às 10.30 horas
-    location: Laboratório 304
+    location: Laboratório 302
   - id: mc-cesar
     type: Tecnológico
     title: "Guia Prático de Treinamento Distribuído para LLMs."
