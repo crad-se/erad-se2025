@@ -73,7 +73,7 @@ slide_id: 4
                                         {% if timeslot.id %}
                                             {% for mc in site.data.mcursos.minicursos %}
                                                 {% if timeslot.id == mc.id%}
-                                                    <h6> Local: {{mc.location}}</h6>
+                                                    <h6 class="text-black"> Local: {{mc.location}}</h6>
                                                 {% endif %}
                                             {% endfor %}
                                         {% endif %}
