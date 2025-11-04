@@ -189,11 +189,11 @@ deadlines:
   - date: 2025-10-31
     text: Entrega da Versão Final
     pass_due: False
-    strike_through: False
+    strike_through: True
   - date: 2025-10-31
     text: Prazo para as Inscrições dos Autores
     pass_due: False
-    strike_through: False
+    strike_through: True
   - date: 2025-11-04
     text: Prazo para Registro das Equipes da Maratona
     pass_due: True
