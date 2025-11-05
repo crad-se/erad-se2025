@@ -75,7 +75,7 @@ slideshow:
     photographer_name: "Vinod Rebello"
     photographer_link: ""
   - id: 8
-    image_path: ./assets/images/eraduff.jpg
+    image_path: ./assets/images/slideshow/eraduff.jpg
     description: ERAD-SE 2025 @ IC-UFF
     photographer_name: "Vinod Rebello"
     photographer_link: ""  
