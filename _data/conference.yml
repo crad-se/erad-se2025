@@ -201,8 +201,8 @@ deadlines:
     strike_through: True
   - date: 2025-11-04
     text: Prazo para Registro das Equipes da Maratona
-    pass_due: True
-    strike_through: False
+    pass_due: False
+    strike_through: True
 
 sponsors:
   - name: Amazon Web Services
