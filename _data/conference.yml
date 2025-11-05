@@ -74,6 +74,11 @@ slideshow:
     description: ES-MG-RJ
     photographer_name: "Vinod Rebello"
     photographer_link: ""
+  - id: 8
+    image_path: ./assets/images/eraduff.png
+    description: ERAD-SE 2025 @ IC-UFF
+    photographer_name: "Vinod Rebello"
+    photographer_link: ""  
 navbar:
   - id: 0
     label: Home
