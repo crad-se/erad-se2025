@@ -78,6 +78,21 @@ slideshow:
     image_path: ./assets/images/slideshow/eraduff.jpg
     description: ERAD-SE 2025 @ IC-UFF
     photographer_name: "Vinod Rebello"
+    photographer_link: ""
+  - id: 9
+    image_path: ./assets/images/slideshow/pal-aws.jpg
+    description: Palestra AWS @ERAD-SE 2025
+    photographer_name: "Vinod Rebello"
+    photographer_link: ""  
+  - id: 10
+    image_path: ./assets/images/slideshow/pal-petro.jpg
+    description: Palestra AWS @ERAD-SE 2025
+    photographer_name: "Vinod Rebello"
+    photographer_link: ""  
+  - id: 11
+    image_path: ./assets/images/slideshow/mc-aws.jpg
+    description: Minicurso AWS @ERAD-SE 2025
+    photographer_name: "Vinod Rebello"
     photographer_link: ""  
 navbar:
   - id: 0
