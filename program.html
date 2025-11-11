@@ -118,7 +118,7 @@ slide_id: 4
                             {% for paper in site.data.accepted %}
                                 {% if event.pid == paper.id%}
                                     <td>
-                                        {% if paper.plink %}
+                                        {% if paper.paplnk %}
                                             <p><b><a href="{{paper.paplnk}}">{{paper.title}}</a></b>
                                         {% else %}
                                             <p><b>{{paper.title}}</b>
