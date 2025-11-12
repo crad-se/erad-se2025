@@ -119,14 +119,18 @@ slide_id: 4
                                 {% if event.pid == paper.id%}
                                     <td>
                                         <p>
+                                        <b>{{paper.title}}</b>
                                         {% if paper.paplnk %}
-                                            <b><a href="{{paper.paplnk}}">{{paper.title}}</a></b>
+                                            [<a href="{{paper.paplnk}}">artigo</a>
+                                            {% if paper.aplnk %}
+                                                , <a href="{{paper.aplnk}}">apresentação</a>
+                                            {% endif %}
+                                            ]
                                         {% else %}
-                                            <b>{{paper.title}}</b>
+                                            {% if paper.aplnk %}
+                                                [<a href="{{paper.aplnk}}">apresentação</a>]
+                                            {% endif %} 
                                         {% endif %}
-                                        {% if paper.aplnk %}
-                                            <b><a href="{{paper.aplnk}}"> [apresentação]</a></b>
-                                        {% endif %} 
                                         <br><i>
                                         {% for author in paper.authors %}
                                             {{author.name}} ({{author.affiliation}}){% unless forloop.last %}, {% endunless %}
