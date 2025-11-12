@@ -121,11 +121,11 @@ slide_id: 4
                                         <p>
                                         <b>{{paper.title}}</b>
                                         {% if paper.paplnk %}
-                                            [<a href="{{paper.paplnk}}">artigo</a>
                                             {% if paper.aplnk %}
-                                                , <a href="{{paper.aplnk}}">apresentação</a>
+                                                [<a href="{{paper.paplnk}}">artigo</a>, <a href="{{paper.aplnk}}">apresentação</a>]
+                                            {% else %}
+                                                [<a href="{{paper.paplnk}}">artigo</a>]
                                             {% endif %}
-                                            ]
                                         {% else %}
                                             {% if paper.aplnk %}
                                                 [<a href="{{paper.aplnk}}">apresentação</a>]
