@@ -93,6 +93,31 @@ slideshow:
     image_path: ./assets/images/slideshow/mc-aws.jpg
     description: Minicurso AWS @ERAD-SE 2025
     photographer_name: "Vinod Rebello"
+    photographer_link: ""
+  - id: 12
+    image_path: ./assets/images/slideshow/pal-viktor.jpg
+    description: Palestra de Prof. Viktor Prasanna @ERAD-SE 2025
+    photographer_name: "Vinod Rebello"
+    photographer_link: ""  
+  - id: 13
+    image_path: ./assets/images/slideshow/pal-alet.jpg
+    description: Palestra de Profa. Aleteia Araújo @ERAD-SE 2025
+    photographer_name: "Vinod Rebello"
+    photographer_link: ""  
+  - id: 14
+    image_path: ./assets/images/slideshow/pal-lexis.jpg
+    description: Palestra LexisNexis @ERAD-SE 2025
+    photographer_name: "Vinod Rebello"
+    photographer_link: ""  
+  - id: 15
+    image_path: ./assets/images/slideshow/pal-hpe.jpg
+    description: Palestra HPE @ERAD-SE 2025
+    photographer_name: "Vinod Rebello"
+    photographer_link: ""  
+  - id: 16
+    image_path: ./assets/images/slideshow/coffee.jpg
+    description: Coffee Break Discussions @ERAD-SE 2025
+    photographer_name: "Vinod Rebello"
     photographer_link: ""  
 navbar:
   - id: 0
