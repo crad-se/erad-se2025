@@ -86,7 +86,7 @@ slideshow:
     photographer_link: ""  
   - id: 10
     image_path: ./assets/images/slideshow/pal-petro.jpg
-    description: Palestra AWS @ERAD-SE 2025
+    description: Palestra PETROBRAS @ERAD-SE 2025
     photographer_name: "Vinod Rebello"
     photographer_link: ""  
   - id: 11
