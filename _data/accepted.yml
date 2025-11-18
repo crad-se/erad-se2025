@@ -42,6 +42,7 @@
   track: Fórum de Iniciação Científica
   title: "BOBS: an Intel 8085 processor simulator"
   paplnk: ./assets/papers/16918_Artigo_-_Versao_Final.pdf
+  aplnk: ./assets/papers/Ap16918.pdf
   authors:
   - name: Antônio Sousa
     email: antonio.drumondcs@gmail.com
