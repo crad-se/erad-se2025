@@ -2,6 +2,7 @@
   track: Concurso de Dissertação
   title: "Modeling, simulation and analysis of job scheduling policy changes on supercomputers"
   paplnk: ./assets/papers/16904_Resumo_do_TCCDissertacao.pdf
+  aplnk: ./assets/papers/Ap16904.pdf
   authors:
   - name: João Santos
     email: jpmacleure@gmail.com
@@ -14,6 +15,7 @@
   track: Fórum de Iniciação Científica
   title: "The Decoherence of Schrödinger's State: A Quantitative Analysis of Fidelity in Noisy Quantum Simulations"
   paplnk: ./assets/papers/16905_Artigo_-_Versao_Final.pdf
+  aplnk: ./assets/papers/Ap16905.pdf
   authors:
   - name: William Wallace Teodoro Rodrigues
     email: williamwallace@alunos.utfpr.edu.br
