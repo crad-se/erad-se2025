@@ -251,6 +251,9 @@ sponsors:
   - name: Hewlett Packard Enterprise 
     logo_path: ./assets/images/sponsors/HPE2.png
     url: https://www.hpe.com/br/pt/home.html
+  - name: Advanced Micro Devices
+    logo_path: ./assets/images/sponsors/AMD_E_Blk_RGB.png
+    url: https://www.amd.com/
   - name: LexisNexis Risk Solutions
     logo_path: ./assets/images/sponsors/logo_lexis.png
     url: https://risk.lexisnexis.com.br/
