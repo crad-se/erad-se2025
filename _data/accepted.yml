@@ -147,6 +147,7 @@
   track: Fórum de Iniciação Científica
   title: "Modelo de refinamento em paralelo para malhas de elementos finitos"
   paplnk: ./assets/papers/16932_Artigo_-_Versao_Final.pdf
+  aplnk: ./assets/papers/Ap16932.pdf
   authors:
   - name: Abner Hermsdolf
     email: abnerfrancoh@gmail.com
