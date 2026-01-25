@@ -6,7 +6,7 @@ areas:
 - category: "Projeto e Arquitetura"
   topics:
     - Arquitetura de Computadores e Processadores
-    - Arquiteturas Dedicadas e Específicas (GPUs, FPGAs, e outras)
+    - Arquiteturas de Aceleradores (GPUs, FPGAs, e outras)
     - Arquiteturas Avançadas, Dedicadas e Específicas
     - Computação de Alto Desempenho para Inteligência Artificial
     - Computação de Alto Desempenho Sustentável
