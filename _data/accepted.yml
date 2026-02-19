@@ -27,7 +27,8 @@
 - id: 16907	
   track: Fórum de Pós-Graduação
   title: "Uma Abordagem do Uso de Risc-V em Computação de Alto Desempenho (HPC)"
-  paplnk: ./assets/papers/16907_Artigo_-_Versao_Final.pdf
+#  paplnk: ./assets/papers/16907_Artigo_-_Versao_Final.pdf
+  paplnk: https://sol.sbc.org.br/index.php/eradse/article/view/40537
   aplnk: ./assets/papers/Ap16907.pdf
   authors:
   - name: Leon Barboza
