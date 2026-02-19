@@ -3,6 +3,7 @@
   title: "Modeling, simulation and analysis of job scheduling policy changes on supercomputers"
   paplnk: ./assets/papers/16904_Resumo_do_TCCDissertacao.pdf
   aplnk: ./assets/papers/Ap16904.pdf
+  award: Menção Honrosa
   authors:
   - name: João Santos
     email: jpmacleure@gmail.com
@@ -14,7 +15,8 @@
 - id: 16905
   track: Fórum de Iniciação Científica
   title: "The Decoherence of Schrödinger's State: A Quantitative Analysis of Fidelity in Noisy Quantum Simulations"
-  paplnk: ./assets/papers/16905_Artigo_-_Versao_Final.pdf
+#  paplnk: ./assets/papers/16905_Artigo_-_Versao_Final.pdf
+  paplnk: https://sol.sbc.org.br/index.php/eradse/article/view/40541
   aplnk: ./assets/papers/Ap16905.pdf
   authors:
   - name: William Wallace Teodoro Rodrigues
@@ -44,8 +46,10 @@
 - id: 16918	
   track: Fórum de Iniciação Científica
   title: "BOBS: an Intel 8085 processor simulator"
-  paplnk: ./assets/papers/16918_Artigo_-_Versao_Final.pdf
+#  paplnk: ./assets/papers/16918_Artigo_-_Versao_Final.pdf
+  paplnk: https://sol.sbc.org.br/index.php/eradse/article/view/40542
   aplnk: ./assets/papers/Ap16918.pdf
+  award: Menção Honrosa
   authors:
   - name: Antônio Sousa
     email: antonio.drumondcs@gmail.com
@@ -63,7 +67,8 @@
 - id: 16923	
   track: Fórum de Iniciação Científica
   title: "Predição de Eficiência Energética em Aplicações de HPC"
-  paplnk: ./assets/papers/16923_Artigo_-_Versao_Final.pdf
+#  paplnk: ./assets/papers/16923_Artigo_-_Versao_Final.pdf
+  paplnk: https://sol.sbc.org.br/index.php/eradse/article/view/40543
   aplnk: ./assets/papers/Ap16923.pdf
   authors:
   - name: Isabella Muniz
@@ -88,7 +93,8 @@
 - id: 16924	
   track: Fórum de Iniciação Científica
   title: "Parsl vs PyCOMPSs: Comparação de Usabilidade e Desempenho em Workflows Científicos de HPC"
-  paplnk: ./assets/papers/16924_Artigo_-_Versao_Final.pdf
+#  paplnk: ./assets/papers/16924_Artigo_-_Versao_Final.pdf
+  paplnk: https://sol.sbc.org.br/index.php/eradse/article/view/40544
   aplnk: ./assets/papers/Ap16924.pdf
   authors:
   - name: Reiglan Soares
@@ -116,6 +122,7 @@
 #  paplnk: ./assets/papers/16931_Artigo_-_Versao_Final.pdf
   paplnk: https://sol.sbc.org.br/index.php/eradse/article/view/40538
   aplnk: ./assets/papers/Ap16931.pdf
+  award: Melhor Artigo Científico de Pós-Graduação
   authors:
   - name: Alan Lira Nunes
     email: alan_lira@id.uff.br
@@ -148,7 +155,8 @@
 - id: 16932	
   track: Fórum de Iniciação Científica
   title: "Modelo de refinamento em paralelo para malhas de elementos finitos"
-  paplnk: ./assets/papers/16932_Artigo_-_Versao_Final.pdf
+#  paplnk: ./assets/papers/16932_Artigo_-_Versao_Final.pdf
+  paplnk: https://sol.sbc.org.br/index.php/eradse/article/view/40545
   aplnk: ./assets/papers/Ap16932.pdf
   authors:
   - name: Abner Hermsdolf
@@ -161,7 +169,8 @@
 - id: 16937	
   track: Fórum de Iniciação Científica
   title: "Auditoria de código e planejamento de otimização em ambiente HPC para modelos de Previsão Numérica de Tempo"
-  paplnk: ./assets/papers/16937_Artigo_-_Versao_Final.pdf
+#  paplnk: ./assets/papers/16937_Artigo_-_Versao_Final.pdf
+  paplnk: https://sol.sbc.org.br/index.php/eradse/article/view/40546
   aplnk: ./assets/papers/Ap16937.pdf
   authors:
   - name: Isabel de Freitas Barboza
@@ -177,7 +186,8 @@
 - id: 16942	
   track: Fórum de Iniciação Científica
   title: "Análise de Desempenho do PA-Star2 no SDumont e sua Aplicação em um Workflow Científico"
-  paplnk: ./assets/papers/16942_Artigo_-_Versao_Final.pdf
+#  paplnk: ./assets/papers/16942_Artigo_-_Versao_Final.pdf
+  paplnk: https://sol.sbc.org.br/index.php/eradse/article/view/40547
   aplnk: ./assets/papers/Ap16942.pdf
   authors:
   - name: Kelen Souza
@@ -230,6 +240,7 @@
   title: "Otimização de custo de um sistema de modelagem atmosférica em nuvens computacionais"
   paplnk: ./assets/papers/16958_Resumo_-_Versao_Final.pdf
   aplnk: ./assets/papers/Ap16958.pdf
+  award: Melhor Dissertação de Mestrado
   authors:
   - name: Mateus Silva Melo
     email: mateus_melo@ymail.com
@@ -244,7 +255,8 @@
 - id: 16964	
   track: Fórum de Iniciação Científica
   title: "Avaliação de Estratégias de gerenciamento de contêineres para uma Aplicação de Bioinformática na AWS"
-  paplnk: ./assets/papers/16964_Artigo_-_Versao_Final.pdf
+#  paplnk: ./assets/papers/16964_Artigo_-_Versao_Final.pdf
+  paplnk: https://sol.sbc.org.br/index.php/eradse/article/view/40548
   aplnk: ./assets/papers/Ap16964.pdf
   authors:
   - name: Rafael Amparo
@@ -260,8 +272,10 @@
 - id: 17007	
   track: Fórum de Iniciação Científica
   title: "Oferta ou Roubo: avaliando abordagens de escalonamento dinâmico para Workflow scRNA-seq na nuvem AWS"
-  paplnk: ./assets/papers/17007_Artigo_-_Versao_Final.pdf
+#  paplnk: ./assets/papers/17007_Artigo_-_Versao_Final.pdf
+  paplnk: https://sol.sbc.org.br/index.php/eradse/article/view/40549
   aplnk: ./assets/papers/Ap17007.pdf
+  award: Melhor Artigo de Iniciação Científica
   authors:
   - name: Erik Izidoro
     email: erikizidoro@id.uff.br
@@ -276,8 +290,10 @@
 - id: 17063	
   track: Fórum de Iniciação Científica
   title: "A Cloud-Native Architecture for the Machine Teaching Platform: Enhancing Accessibility, Scalability, and Security"
-  paplnk: ./assets/papers/17063_Artigo_-_Versao_Final.pdf
+#  paplnk: ./assets/papers/17063_Artigo_-_Versao_Final.pdf
+  paplnk: https://sol.sbc.org.br/index.php/eradse/article/view/40550
   aplnk: ./assets/papers/Ap17063.pdf
+  award: Menção Honrosa
   authors:
   - name: Nícolas Arruda
     email: nicolasma@dcc.ufrj.br
@@ -295,7 +311,8 @@
 - id: 17086	
   track: Fórum de Iniciação Científica
   title: "CellHeap: Instâncias maiores podem não ser melhores"
-  paplnk: ./assets/papers/17086_Artigo_-_Versao_Final.pdf
+#  paplnk: ./assets/papers/17086_Artigo_-_Versao_Final.pdf
+  paplnk: https://sol.sbc.org.br/index.php/eradse/article/view/40551
   aplnk: ./assets/papers/Ap17086.pdf
   authors:
   - name: Bernardo Rebello
