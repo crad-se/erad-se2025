@@ -128,12 +128,12 @@ slide_id: 4
                                             {% endif %}
                                         {% else %}
                                             {% if paper.aplnk %}
-                                                <b class="text-danger">** {{paper.award}} **</b>
+                                                [<a href="{{paper.aplnk}}">apresentação</a>]
                                             {% endif %} 
                                         {% endif %}
                                         {% if paper.award %}
-                                                [<a href="{{paper.aplnk}}">apresentação</a>]
-                                            {% endif %} 
+                                            &nbsp; <b class="text-danger">** {{paper.award}} **</b>
+                                        {% endif %} 
                                         <br><i>
                                         {% for author in paper.authors %}
                                             {{author.name}} ({{author.affiliation}}){% unless forloop.last %}, {% endunless %}
