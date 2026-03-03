@@ -124,68 +124,68 @@ slideshow:
 # Photos from the event
 highlights:
   - id: 0
-    image_path: ./assets/images/fotos/
-    description: 
+    image_path: ./assets/images/photos/20251105_1.jpg
+    description: ERAD-SE Banner
     photographer_name: "Vinod Rebello"
     photographer_link: ""
     active: True
   - id: 1
-    image_path: ./assets/images/slideshow/mac.jpg
+    image_path: ./assets/images/photos/20251105_2.jpg
     description: Museu de Arte Contemporânea de Niterói
     photographer_name: "Vinod Rebello"
     photographer_link: ""
   - id: 2
-    image_path: ./assets/images/slideshow/Parque.jpg
+    image_path: ./assets/images/photos/20251105_3.jpg
     description: Vista da Parque da Cidade
     photographer_name: "Vinod Rebello"
     photographer_link: ""
   - id: 3
-    image_path: ./assets/images/slideshow/ilha.jpg
+    image_path: ./assets/images/photos/20251105_4.jpg
     description: Ilha de Boa Viagem
     photographer_name: "Vinod Rebello"
     photographer_link: ""
   - id: 4
-    image_path: ./assets/images/slideshow/Charitas.jpg
+    image_path: ./assets/images/photos/20251105_5.jpg 
     description: Por de Sol de Charitas
     photographer_name: "Vinod Rebello"
     photographer_link: ""
   - id: 5
-    image_path: ./assets/images/slideshow/Pedra.jpg
+    image_path: ./assets/images/photos/20251105_6.jpg
     description: Pedra do Índio, Icaraí
     photographer_name: "Vinod Rebello"
     photographer_link: ""
   - id: 6
-    image_path: ./assets/images/slideshow/Icarai.jpg
+    image_path: ./assets/images/photos/20251106_1.jpg
     description: Niterói
     photographer_name: "Vinod Rebello"
     photographer_link: ""
   - id: 7
-    image_path: ./assets/images/ERAD-SE-3-peach.png
+    image_path: ./assets/images/photos/20251106_2.jpg
     description: ES-MG-RJ
     photographer_name: "Vinod Rebello"
     photographer_link: ""
   - id: 8
-    image_path: ./assets/images/slideshow/eraduff.jpg
+    image_path: ./assets/images/photos/20251106_3.jpg
     description: ERAD-SE 2025 @ IC-UFF
     photographer_name: "Vinod Rebello"
     photographer_link: ""
   - id: 9
-    image_path: ./assets/images/slideshow/pal-aws.jpg
+    image_path: ./assets/images/photos/20251106_4.jpg
     description: Palestra AWS @ERAD-SE 2025
     photographer_name: "Vinod Rebello"
     photographer_link: ""  
   - id: 10
-    image_path: ./assets/images/slideshow/pal-petro.jpg
+    image_path: ./assets/images/photos/20251106_5.jpg
     description: Palestra PETROBRAS @ERAD-SE 2025
     photographer_name: "Vinod Rebello"
     photographer_link: ""  
   - id: 11
-    image_path: ./assets/images/slideshow/mc-aws.jpg
+    image_path: ./assets/images/photos/20251106_6.jpg
     description: Minicurso AWS @ERAD-SE 2025
     photographer_name: "Vinod Rebello"
     photographer_link: ""
   - id: 12
-    image_path: ./assets/images/slideshow/pal-viktor.jpg
+    image_path: ./assets/images/photos/20251106_.jpg
     description: Palestra de Prof. Viktor Prasanna @ERAD-SE 2025
     photographer_name: "Vinod Rebello"
     photographer_link: ""  
