@@ -125,91 +125,111 @@ slideshow:
 highlights:
   - id: 0
     image_path: ./assets/images/photos/20251105_1.jpg
-    description: ERAD-SE Banner
+    description: ERAD-SE Banner @IC-UFF
     photographer_name: "Vinod Rebello"
     photographer_link: ""
     active: True
   - id: 1
     image_path: ./assets/images/photos/20251105_2.jpg
-    description: Museu de Arte Contemporânea de Niterói
+    description: Palestra PETROBRAS (Guilherme Vilela)
     photographer_name: "Vinod Rebello"
     photographer_link: ""
   - id: 2
     image_path: ./assets/images/photos/20251105_3.jpg
-    description: Vista da Parque da Cidade
+    description: Palestra PETROBRAS (Felipe Portella)
     photographer_name: "Vinod Rebello"
     photographer_link: ""
   - id: 3
     image_path: ./assets/images/photos/20251105_4.jpg
-    description: Ilha de Boa Viagem
+    description: Minicurso AWS com Marcelo Baptista
     photographer_name: "Vinod Rebello"
     photographer_link: ""
   - id: 4
     image_path: ./assets/images/photos/20251105_5.jpg 
-    description: Por de Sol de Charitas
+    description: Fórum de Pós (Matheus Marotti)
     photographer_name: "Vinod Rebello"
     photographer_link: ""
   - id: 5
     image_path: ./assets/images/photos/20251105_6.jpg
-    description: Pedra do Índio, Icaraí
+    description: Fórum de Pós (Alana Gadelha)
     photographer_name: "Vinod Rebello"
     photographer_link: ""
   - id: 6
     image_path: ./assets/images/photos/20251106_1.jpg
-    description: Niterói
+    description: Fórum de IC (Erik Izidoro)
     photographer_name: "Vinod Rebello"
     photographer_link: ""
   - id: 7
     image_path: ./assets/images/photos/20251106_2.jpg
-    description: ES-MG-RJ
+    description: Perguntas?
     photographer_name: "Vinod Rebello"
     photographer_link: ""
   - id: 8
     image_path: ./assets/images/photos/20251106_3.jpg
-    description: ERAD-SE 2025 @ IC-UFF
+    description: Keynote Internacional (Prof. Viktor Prasanna)
     photographer_name: "Vinod Rebello"
     photographer_link: ""
   - id: 9
     image_path: ./assets/images/photos/20251106_4.jpg
-    description: Palestra AWS @ERAD-SE 2025
+    description: A plateia
     photographer_name: "Vinod Rebello"
     photographer_link: ""  
   - id: 10
     image_path: ./assets/images/photos/20251106_5.jpg
-    description: Palestra PETROBRAS @ERAD-SE 2025
+    description: Keynote convidada (Profa. Aleteia Araújo)
     photographer_name: "Vinod Rebello"
     photographer_link: ""  
   - id: 11
     image_path: ./assets/images/photos/20251106_6.jpg
-    description: Minicurso AWS @ERAD-SE 2025
+    description: Palestra LexisNexis (Mauro Marques)
     photographer_name: "Vinod Rebello"
     photographer_link: ""
   - id: 12
-    image_path: ./assets/images/photos/20251106_.jpg
-    description: Palestra de Prof. Viktor Prasanna @ERAD-SE 2025
+    image_path: ./assets/images/photos/20251107_1.jpg
+    description: Fórum de IC (Antônio de Souza)
     photographer_name: "Vinod Rebello"
     photographer_link: ""  
   - id: 13
-    image_path: ./assets/images/slideshow/pal-alet.jpg
-    description: Palestra de Profa. Aleteia Araújo @ERAD-SE 2025
+    image_path: ./assets/images/photos/20251107_2.jpg
+    description: Plateia (dia 3)
     photographer_name: "Vinod Rebello"
     photographer_link: ""  
   - id: 14
-    image_path: ./assets/images/slideshow/pal-lexis.jpg
-    description: Palestra LexisNexis @ERAD-SE 2025
+    image_path: ./assets/images/photos/20251107_3.jpg
+    description: Fórum de IC (Abner Hermsdolf)
     photographer_name: "Vinod Rebello"
     photographer_link: ""  
   - id: 15
-    image_path: ./assets/images/slideshow/pal-hpe.jpg
-    description: Palestra HPE @ERAD-SE 2025
+    image_path: ./assets/images/photos/20251107_4.jpg
+    description: Fórum de IC (Isabel Barboza)
     photographer_name: "Vinod Rebello"
     photographer_link: ""  
   - id: 16
-    image_path: ./assets/images/slideshow/coffee.jpg
-    description: Coffee Break Discussions @ERAD-SE 2025
+    image_path: ./assets/images/photos/20251107_5.jpg
+    description: Fórum de IC (Isabella Muniz)
     photographer_name: "Vinod Rebello"
     photographer_link: ""  
-
+  - id: 17
+    image_path: ./assets/images/photos/20251107_6.jpg
+    description: Discussões no Coffee Break
+    photographer_name: "Vinod Rebello"
+    photographer_link: ""  
+  - id: 18
+    image_path: ./assets/images/photos/20251107_7.jpg
+    description: Premiação: Mensão Honrosa IC (Nícolas Arruda)
+    photographer_name: "Vinod Rebello"
+    photographer_link: ""  
+  - id: 19
+    image_path: ./assets/images/photos/20251107_8.jpg
+    description: Premiação: Mensão Honrosa CTD (p/ João Santos)
+    photographer_name: "Vinod Rebello"
+    photographer_link: ""  
+  - id: 20
+    image_path: ./assets/images/photos/20251107_9.jpg
+    description: Premiação: Melhor Dissertação (Mateus Melo)
+    photographer_name: "Vinod Rebello"
+    photographer_link: ""  
+ 
 navbar:
   - id: 0
     label: Home
