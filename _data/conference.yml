@@ -216,17 +216,17 @@ highlights:
     photographer_link: ""  
   - id: 18
     image_path: ./assets/images/photos/20251107_7.jpg
-    description: Premiação: Mensão Honrosa IC (Nícolas Arruda)
+    description: Premiação - Mensão Honrosa IC (Nícolas Arruda)
     photographer_name: "Vinod Rebello"
     photographer_link: ""  
   - id: 19
     image_path: ./assets/images/photos/20251107_8.jpg
-    description: Premiação: Mensão Honrosa CTD (p/ João Santos)
+    description: Premiação - Mensão Honrosa CTD (p/ João Santos)
     photographer_name: "Vinod Rebello"
     photographer_link: ""  
   - id: 20
     image_path: ./assets/images/photos/20251107_9.jpg
-    description: Premiação: Melhor Dissertação (Mateus Melo)
+    description: Premiação - Melhor Dissertação (Mateus Melo)
     photographer_name: "Vinod Rebello"
     photographer_link: ""  
  
